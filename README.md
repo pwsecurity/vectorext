@@ -9,7 +9,7 @@ Run Vector AI **on your own computer** instead of the cloud. Faster, works offli
 1. **Windows 10 or 11** computer
 2. **Internet connection** (for initial setup and first login only)
 3. **Vector Chrome Extension** already installed in your browser
-4. **Vector Device Manager** already installed 
+4. **Vector Device Manager** already installed ([download here](https://github.com/pwsecurity/vectorext/tree/main/VectorDeviceManager_Win))
 
 ---
 
