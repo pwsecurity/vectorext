@@ -49,64 +49,7 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "api_keys": [
-                "AIzaSyDaXGk3WIdSvw_ybXuVRfIePOGBb3-Nj_g",
-                "AIzaSyDcXSdJB6AleW0ubxSJFNT0oA7_ZgYJSAc",
-                "AIzaSyDFwmGZNVA_Fg9Te_yHYwrF_ObLUB6s4fc",
-                "AIzaSyC9MUjLBrgps5_-LWJhIJMjxyREvEeHyxI",
-                "AIzaSyCWvJOAHbY4GbETf999iNFlx3hElDRXycI",
-                "AIzaSyCL9oj02QpC1NUtY3nV9q3ng-Zy0dXIeBs",
-                "AIzaSyCL7cJYhheUklOEiMmeAZui4caKuwra1_k",
-                "AIzaSyDbYC0DcFjbk9pLuLddCcB_Jo4XcyUAvKk",
-                "AIzaSyANqSfGVMAHqxU3lGCIqy2WvpiDkMpxeps",
-                "AIzaSyAvdC152UHXHB5KRCRZsC1e9BKMnDACubw",
-                "AIzaSyDv8DdoYHLP4AYHbeUnSmxiVAfBBEJI-IA",
-                "AIzaSyCriUyhXiZVDAZeeW9UxSKPxsuCjATjPg0",
-                "AIzaSyCcT6r0N6e5zhCe8Gs6uAPbKpCJ2c9ogKw",
-                "AIzaSyBoCaxrkaEWR63c5K4wcP6DoMnW_2Jxbq8",
-                "AIzaSyAUparrtrBH3vNLL3toVm4LRziZZcsYtKA",
-                "AIzaSyCKbzcSo1aIkxrMdaZI_XjJ4nF6orJE1Dg",
-                "AIzaSyBEi1pDRmcVNjznUU1Mc1yzdpKoOL2xwco",
-                "AIzaSyBYrKs3OKxyasDNiE9-jZPvyDejeeTRoV4",
-                "AIzaSyC8pkpaR_G8RPkn5F0VSaFxCa93xeabALk",
-                "AIzaSyDAnSkqnzEP7u2Z2fi3KenTAA_IV60MWzI",
-                "AIzaSyBEb1MEiZbFjI65pCgAipluEfynLCC0gFk",
-                "AIzaSyAyIwEVg01GCen1IMEDC-M_54F2STKD_tI",
-                "AIzaSyAk0SbFjmEzvEpNc2EFPStZ_STXcZcLd1E",
-                "AIzaSyCvXTOuUYkr9eypC-iE1EKwTshqCPCjFKs",
-                "AIzaSyDLfDM19P20TyNF6RMoqyKzo-qT89pYjZM",
-                "AIzaSyBGJCPSeWbGlRkKCquPbhwwkHfq5G0uJxY",
-                "AIzaSyDZGRzLZf6fa-VP5gvFm60LYByw_Yjzyd4",
-                "AIzaSyAnrWmDAP9JZJ5LMXdMsQzWs9V3cj8IxhY",
-                "AIzaSyBuR-VqgkM7QHtVoD6GOXe25SE_6HqaC7s",
-                "AIzaSyD_TlFeCT0_P0CliHZyWoT22U45FTvujME",
-                "AIzaSyDUpZenY3SvSNuNkj1GcD5SfMlRsCQw0pI",
-                "AIzaSyB6Pb_FhWQ6EhS34YauGE4GGRUnp8M8HWs",
-                "AIzaSyAyDU0zE2c84SH2jrbpf2Hccy5fZFKV92E",
-                "AIzaSyCtGs3ZvpSvEIe92McbeP6wu3Wg-aDJ5o0",
-                "AIzaSyBcTzUrIYp4CslU4sG3nWPk23lZzs5AnTU",
-                "AIzaSyCNXic_70Pv67wxuXjPNPYnjX1a2Xqdz60",
-                "AIzaSyDBMoeQjGRJYOV9hIl6vMWx9UpAfbnX0Qk",
-                "AIzaSyCRzXWdVU1c-spbHdOqlXbsepLpHySvHgc",
-                "AIzaSyCg4oV_69JelvxN1bbaijS699dwmXimi9M",
-                "AIzaSyDrCfkwZmrX4FBiNe5Y_sFVPe6m4MXdnSo",
-                "AIzaSyCznnBjSZPifvQowZU1EmjlonTl96-_qgg",
-                "AIzaSyDSiaEusMR7q-vArrjyfiBzQUwAJFowVqM",
-                "AIzaSyA0sjRVm5SF9J1CbcDpOhpp6ywHcNmsq8k",
-                "AIzaSyDTLOY785gkvQTvdYnfoH7pbtCNg7OaSq8"
-            ],
-            "session_limit": 2,
-            "device_id": "1F70BACC-867B-5904-A4C8-596AC66E3482",
-            "linked_webapp_user": "rids3d@gmail.com",
-            "linked_webapp_username": "shomadhan_admin",
-            "linked_primary_user": "rids3d@gmail.com",
-            "use_server_keys": true,
-            "last_login": "2025-12-27T11:30:25.153395",
-            "sessions": {
-                "1F70BACC-867B-5904-A4C8-596AC66E3482": {
-                    "last_login": "2025-12-27T11:30:25.153395"
-                }
-            }
+            "session_limit": 2
         },
         "ashleymmarshall8@gmail.com": {
             "password": "Sanjana",
@@ -158,14 +101,8 @@
                 "gemini-3-flash-preview": false,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "api_keys": [
-                "AIzaSyA7bOydD8mtEeKiGTV0mbzhy7mqyKe2W3c",
-                "AIzaSyDaXGk3WIdSvw_ybXuVRfIePOGBb3-Nj_g"
-            ],
             "auto_pilot": true,
-            "use_server_keys": false,
-            "session_limit": 2,
-            "sessions": {}
+            "session_limit": 2
         },
         "mdsanjidhossinshimul@gmail.com": {
             "password": "shimul00138",
@@ -217,14 +154,8 @@
                 "gemini-3-flash-preview": false,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "use_server_keys": false,
             "auto_pilot": true,
-            "api_keys": [
-                "AIzaSyDcXSdJB6AleW0ubxSJFNT0oA7_ZgYJSAc",
-                "AIzaSyAyDU0zE2c84SH2jrbpf2Hccy5fZFKV92E"
-            ],
-            "session_limit": 1,
-            "sessions": {}
+            "session_limit": 1
         },
         "mtasfir503@gmail.com": {
             "password": "!@Mtasfir013",
@@ -276,41 +207,8 @@
                 "gemini-3-flash-preview": false,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "use_server_keys": false,
             "auto_pilot": true,
-            "api_keys": [
-                "AIzaSyAvdC152UHXHB5KRCRZsC1e9BKMnDACubw",
-                "AIzaSyDv8DdoYHLP4AYHbeUnSmxiVAfBBEJI-IA",
-                "AIzaSyCriUyhXiZVDAZeeW9UxSKPxsuCjATjPg0",
-                "AIzaSyCcT6r0N6e5zhCe8Gs6uAPbKpCJ2c9ogKw",
-                "AIzaSyBoCaxrkaEWR63c5K4wcP6DoMnW_2Jxbq8",
-                "AIzaSyAUparrtrBH3vNLL3toVm4LRziZZcsYtKA",
-                "AIzaSyCKbzcSo1aIkxrMdaZI_XjJ4nF6orJE1Dg",
-                "AIzaSyBEi1pDRmcVNjznUU1Mc1yzdpKoOL2xwco",
-                "AIzaSyBYrKs3OKxyasDNiE9-jZPvyDejeeTRoV4",
-                "AIzaSyC8pkpaR_G8RPkn5F0VSaFxCa93xeabALk",
-                "AIzaSyDAnSkqnzEP7u2Z2fi3KenTAA_IV60MWzI",
-                "AIzaSyBEb1MEiZbFjI65pCgAipluEfynLCC0gFk",
-                "AIzaSyAyIwEVg01GCen1IMEDC-M_54F2STKD_tI",
-                "AIzaSyAk0SbFjmEzvEpNc2EFPStZ_STXcZcLd1E",
-                "AIzaSyCvXTOuUYkr9eypC-iE1EKwTshqCPCjFKs",
-                "AIzaSyDLfDM19P20TyNF6RMoqyKzo-qT89pYjZM",
-                "AIzaSyBGJCPSeWbGlRkKCquPbhwwkHfq5G0uJxY",
-                "AIzaSyDZGRzLZf6fa-VP5gvFm60LYByw_Yjzyd4",
-                "AIzaSyAnrWmDAP9JZJ5LMXdMsQzWs9V3cj8IxhY",
-                "AIzaSyBuR-VqgkM7QHtVoD6GOXe25SE_6HqaC7s",
-                "AIzaSyD_TlFeCT0_P0CliHZyWoT22U45FTvujME",
-                "AIzaSyDUpZenY3SvSNuNkj1GcD5SfMlRsCQw0pI",
-                "AIzaSyB6Pb_FhWQ6EhS34YauGE4GGRUnp8M8HWs"
-            ],
-            "session_limit": 1,
-            "sessions": {
-                "To be filled by O.E.M.": {
-                    "last_login": "2025-12-29T12:44:18.690190"
-                }
-            },
-            "device_id": "To be filled by O.E.M.",
-            "last_login": "2025-12-29T12:44:18.690190"
+            "session_limit": 1
         },
         "a@a.com": {
             "password": "12345",
@@ -362,19 +260,8 @@
                 "gemini-3-flash-preview": true,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "api_keys": [
-                "AIzaSyC9MUjLBrgps5_-LWJhIJMjxyREvEeHyxI"
-            ],
             "auto_pilot": true,
-            "session_limit": 1,
-            "sessions": {
-                "1F70BACC-867B-5904-A4C8-596AC66E3482": {
-                    "last_login": "2025-12-29T13:55:37.630913"
-                }
-            },
-            "device_id": "1F70BACC-867B-5904-A4C8-596AC66E3482",
-            "last_login": "2025-12-29T13:55:37.630913",
-            "use_server_keys": false
+            "session_limit": 1
         },
         "nahid": {
             "password": "112233",
@@ -426,28 +313,8 @@
                 "gemini-3-flash-preview": false,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "session_limit": 1,
-            "sessions": {
-                "To Be Filled By O.E.M.": {
-                    "last_login": "2025-12-28T17:57:53.081973"
-                }
-            },
-            "device_id": "To Be Filled By O.E.M.",
-            "last_login": "2025-12-28T17:57:53.081973",
-            "use_server_keys": false,
             "auto_pilot": true,
-            "api_keys": [
-                "AIzaSyCtGs3ZvpSvEIe92McbeP6wu3Wg-aDJ5o0",
-                "AIzaSyBcTzUrIYp4CslU4sG3nWPk23lZzs5AnTU",
-                "AIzaSyCNXic_70Pv67wxuXjPNPYnjX1a2Xqdz60",
-                "AIzaSyDBMoeQjGRJYOV9hIl6vMWx9UpAfbnX0Qk",
-                "AIzaSyCRzXWdVU1c-spbHdOqlXbsepLpHySvHgc",
-                "AIzaSyCg4oV_69JelvxN1bbaijS699dwmXimi9M",
-                "AIzaSyDrCfkwZmrX4FBiNe5Y_sFVPe6m4MXdnSo",
-                "AIzaSyCznnBjSZPifvQowZU1EmjlonTl96-_qgg",
-                "AIzaSyDSiaEusMR7q-vArrjyfiBzQUwAJFowVqM",
-                "AIzaSyA0sjRVm5SF9J1CbcDpOhpp6ywHcNmsq8k"
-            ]
+            "session_limit": 1
         },
         "sohan57777777@gmail.com": {
             "password": "Sohan007",
@@ -487,19 +354,8 @@
                 "gemini-3-flash-preview": false,
                 "gemini-2.5-flash-preview-09-2025": true
             },
-            "session_limit": 1,
-            "sessions": {
-                "Default string": {
-                    "last_login": "2025-12-29T09:56:33.221673"
-                }
-            },
-            "use_server_keys": false,
             "auto_pilot": true,
-            "device_id": "Default string",
-            "last_login": "2025-12-29T09:56:33.221673",
-            "api_keys": [
-                "AIzaSyDTLOY785gkvQTvdYnfoH7pbtCNg7OaSq8"
-            ]
+            "session_limit": 1
         }
     },
     "system_settings": {
@@ -543,14 +399,11 @@
             "gemini-3-flash-preview": false,
             "gemini-2.5-flash-preview-09-2025": true
         },
-        "api_base_url": "https://rupaahsan2d.pythonanywhere.com",
-        "use_server_keys": true,
         "extension": {
-            "version": "2.9",
+            "version": "3.4",
             "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
-            "filename": "vector-v2.9.crx",
-            "uploaded_at": "2025-12-29T07:06:42.715402",
-            "file_hash": "ade3a7686c0d142883121d78870cc5a3b1cd45fd9c85a884171914fdc53d69dd"
+            "filename": "vector-v3.4.crx",
+            "uploaded_at": "2025-12-29T07:06:42.715402"
         }
     },
     "refer_codes": {
