@@ -148,7 +148,7 @@
         },
         "@nahid": {
             "password": "112233",
-            "status": "pending",
+            "status": "approved",
             "role": "user",
             "refer_code": "bws",
             "persona": {},
