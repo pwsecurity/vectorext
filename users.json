@@ -50,7 +50,16 @@
             },
             "auto_pilot": true,
             "session_limit": 2,
-            "active_session": "f0e8b9ed-2bf9-4b0a-9d49-088e96e4b1cf"
+            "active_session": "session_54cuqkluh",
+            "sessions": {
+                "f0e8b9ed-2bf9-4b0a-9d49-088e96e4b1cf": {
+                    "last_login": "2026-03-29T14:58:36.850Z"
+                },
+                "session_54cuqkluh": {
+                    "last_login": "2026-03-29T14:58:36.851Z"
+                }
+            },
+            "last_login": "2026-03-29T14:58:36.851Z"
         },
         "ashleymmarshall8@gmail.com": {
             "password": "Sanjana",
