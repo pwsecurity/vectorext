@@ -49,7 +49,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 2
+            "session_limit": 2,
+            "active_session": "4163a641-6672-4f47-b5dc-9ce9884a01d6"
         },
         "ashleymmarshall8@gmail.com": {
             "password": "Sanjana",
