@@ -224,7 +224,8 @@
             "refer_code": "farhan",
             "persona": {},
             "model_access": {
-                "gemini-2.5-flash": true
+                "gemini-2.5-flash": true,
+                "gemini-flash-lite-latest": true
             },
             "media_access": {
                 "images": true,
