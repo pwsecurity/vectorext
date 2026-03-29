@@ -136,14 +136,10 @@
             "auto_pilot": true,
             "message_limit": false,
             "session_limit": 2,
-            "sessions": {
-                "0322061a-5935-4eff-b5e6-136f3d88aa7d": {
-                    "last_login": "2026-03-29T16:32:09.405Z"
-                }
-            },
+            "sessions": {},
             "expiry_date": "2026-06-27T16:01:09.919Z",
             "created_at": "2026-03-29T15:59:51.560Z",
-            "active_session": "0322061a-5935-4eff-b5e6-136f3d88aa7d",
+            "active_session": "",
             "last_login": "2026-03-29T16:32:09.405Z"
         },
         "@nahid": {
