@@ -252,7 +252,7 @@
                 "files": false,
                 "audio": true
             },
-            "message_limit": false,
+            "message_limit": true,
             "model_access": {
                 "gemini-2.5-flash": true,
                 "gemini-robotics-er-1.5-preview": true,
