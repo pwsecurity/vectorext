@@ -50,16 +50,7 @@
             },
             "auto_pilot": true,
             "session_limit": 2,
-            "active_session": "session_54cuqkluh",
-            "sessions": {
-                "f0e8b9ed-2bf9-4b0a-9d49-088e96e4b1cf": {
-                    "last_login": "2026-03-29T14:58:36.850Z"
-                },
-                "session_54cuqkluh": {
-                    "last_login": "2026-03-29T14:58:36.851Z"
-                }
-            },
-            "last_login": "2026-03-29T14:58:36.851Z"
+            "sessions": {}
         },
         "ashleymmarshall8@gmail.com": {
             "password": "Sanjana",
@@ -112,7 +103,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 2
+            "session_limit": 2,
+            "sessions": {}
         },
         "mdsanjidhossinshimul@gmail.com": {
             "password": "shimul00138",
@@ -165,7 +157,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 1
+            "session_limit": 2,
+            "sessions": {}
         },
         "mtasfir503@gmail.com": {
             "password": "!@Mtasfir013",
@@ -218,14 +211,15 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 1
+            "session_limit": 2,
+            "sessions": {}
         },
         "a@a.com": {
             "password": "12345",
             "refer": "bws",
             "status": "approved",
             "role": "user",
-            "expiry_date": "2026-05-26T09:21:38.850Z",
+            "expiry_date": "2026-01-26T05:21:38.850339",
             "persona": {
                 "name": "Jake Fisher",
                 "age": "40",
@@ -261,7 +255,7 @@
                 "files": true,
                 "audio": true
             },
-            "message_limit": true,
+            "message_limit": false,
             "model_access": {
                 "gemini-2.5-flash": true,
                 "gemini-robotics-er-1.5-preview": true,
@@ -271,14 +265,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 1,
-            "active_session": "cd11c8e4-da6f-4c1b-9e9c-a25ce9f9a0e1",
-            "sessions": {
-                "cd11c8e4-da6f-4c1b-9e9c-a25ce9f9a0e1": {
-                    "last_login": "2026-03-29T15:03:12.043Z"
-                }
-            },
-            "last_login": "2026-03-29T15:03:12.043Z"
+            "session_limit": 2,
+            "sessions": {}
         },
         "nahid": {
             "password": "112233",
@@ -331,7 +319,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 1
+            "session_limit": 2,
+            "sessions": {}
         },
         "sohan57777777@gmail.com": {
             "password": "Sohan007",
@@ -372,7 +361,8 @@
                 "gemini-2.5-flash-preview-09-2025": true
             },
             "auto_pilot": true,
-            "session_limit": 1
+            "session_limit": 2,
+            "sessions": {}
         }
     },
     "system_settings": {
@@ -421,9 +411,7 @@
             "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
             "filename": "vector-v3.4.crx",
             "uploaded_at": "2025-12-29T07:06:42.715402"
-        },
-        "new_registrations": true,
-        "refer_only_mode": true
+        }
     },
     "refer_codes": {
         "naeeym01": {
