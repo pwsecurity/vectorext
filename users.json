@@ -215,7 +215,7 @@
         },
         "farhan1": {
             "password": "farhan",
-            "status": "pending",
+            "status": "approved",
             "role": "user",
             "refer_code": "farhan",
             "persona": {},
