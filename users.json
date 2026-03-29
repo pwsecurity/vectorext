@@ -164,7 +164,7 @@
                 "audio": true,
                 "files": true
             },
-            "auto_pilot": false,
+            "auto_pilot": true,
             "message_limit": false,
             "session_limit": 2,
             "sessions": {},
