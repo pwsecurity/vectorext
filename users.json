@@ -266,9 +266,13 @@
             },
             "auto_pilot": true,
             "session_limit": 2,
-            "sessions": {},
-            "active_session": "",
-            "last_login": "2026-03-29T15:17:40.742Z"
+            "sessions": {
+                "d05f95d4-3c5a-4bb8-8fdc-088582716e10": {
+                    "last_login": "2026-03-29T15:18:05.095Z"
+                }
+            },
+            "active_session": "d05f95d4-3c5a-4bb8-8fdc-088582716e10",
+            "last_login": "2026-03-29T15:18:05.095Z"
         },
         "nahid": {
             "password": "112233",
