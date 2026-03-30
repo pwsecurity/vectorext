@@ -432,6 +432,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-03-30T23:12:39.601Z"
+        },
+        "persona_mndkfb0a_a2acg3hl": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T23:22:34.052Z"
         }
       }
     },
