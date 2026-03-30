@@ -409,20 +409,20 @@
       "persona_profiles": {
         "persona_mndbl0nu_q5qstjln": {
           "persona": {
-            "name": "",
-            "age": "",
+            "name": "Jude vante",
+            "age": "40",
             "dob": "",
-            "gender": "",
+            "gender": "Male",
             "ethnicity": "",
-            "job": "",
-            "job_type": "",
+            "job": "(IT, Information Technology",
+            "job_type": "employed full time",
             "occupation_area": "",
             "post": "",
             "company_size": "",
             "company_revenue": "",
             "income": "",
             "assets": "",
-            "education": "",
+            "education": "Master degree / Bachelor's degree",
             "house": "",
             "decision_maker": "",
             "pets": "",
@@ -440,7 +440,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-03-30T15:47:46.901Z"
+          "updated_at": "2026-03-30T15:53:11.128Z"
         }
       },
       "model_access": {
