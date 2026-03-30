@@ -412,7 +412,7 @@
                 "gemini-robotics-er-1.5-preview": true,
                 "gemini-2.5-flash-lite": true,
                 "gemini-2.5-flash-preview-09-2025": true,
-                "gemini-3-flash-preview": true
+                "gemini-3-flash-preview": false
             },
             "media_access": {
                 "images": true,
