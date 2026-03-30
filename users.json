@@ -413,14 +413,14 @@
             "age": "40",
             "dob": "",
             "gender": "Male",
-            "ethnicity": "",
+            "ethnicity": "not hispanic or latino",
             "job": "(IT, Information Technology",
             "job_type": "employed full time",
-            "occupation_area": "",
-            "post": "",
-            "company_size": "",
-            "company_revenue": "",
-            "income": "",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "technology/it",
+            "company_revenue": "25M-50M",
+            "income": "150000",
             "assets": "",
             "education": "Master degree / Bachelor's degree",
             "house": "",
@@ -440,7 +440,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-03-30T15:53:11.128Z"
+          "updated_at": "2026-03-30T15:55:22.938Z"
         }
       },
       "model_access": {
