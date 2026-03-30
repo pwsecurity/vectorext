@@ -546,6 +546,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-03-30T16:49:44.739Z"
+        },
+        "persona_mnddo2l1_xhehngxo": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T16:49:59.061Z"
         }
       },
       "model_access": {
