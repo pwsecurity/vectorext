@@ -616,6 +616,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-03-30T17:16:47.440Z"
+        },
+        "persona_mnddsk1n_va35hzqs": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T17:17:09.429Z"
         }
       },
       "model_access": {
