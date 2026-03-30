@@ -426,12 +426,15 @@
             "sessions": {
                 "aa6fd8ee-4757-4f41-ad55-f931a5a63ae8": {
                     "last_login": "2026-03-30T15:09:35.218Z"
+                },
+                "d4ad0192-ccad-4289-b0be-b76d9b530ae6": {
+                    "last_login": "2026-03-30T15:46:48.649Z"
                 }
             },
             "expiry_date": "",
             "created_at": "2026-03-30T15:06:24.508Z",
-            "active_session": "aa6fd8ee-4757-4f41-ad55-f931a5a63ae8",
-            "last_login": "2026-03-30T15:09:35.218Z"
+            "active_session": "d4ad0192-ccad-4289-b0be-b76d9b530ae6",
+            "last_login": "2026-03-30T15:46:48.649Z"
         }
     },
     "system_settings": {
