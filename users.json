@@ -397,6 +397,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-03-30T12:56:05.659Z"
+        },
+        "persona_mnd67hwq_jm4rpb9d": {
+          "persona": {
+            "name": "Leon Olivia",
+            "age": "51",
+            "dob": "12  December 1974",
+            "gender": "Female",
+            "ethnicity": "White",
+            "job": "IT",
+            "job_type": "Software",
+            "occupation_area": "Full Time",
+            "post": "Director",
+            "company_size": "5000",
+            "company_revenue": "77M",
+            "income": "150000",
+            "assets": "500000",
+            "education": "Masters ",
+            "house": "Own",
+            "decision_maker": "Primary",
+            "pets": "2",
+            "email": "",
+            "address": "1409 102nd Ave",
+            "city": "Oakland",
+            "state": "California",
+            "zip": "94605",
+            "marital_status": "Married",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T23:12:39.601Z"
         }
       }
     },
