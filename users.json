@@ -972,17 +972,17 @@
             "message_limit": false,
             "session_limit": 2,
             "sessions": {
-                "589865b8-723b-42da-a05f-6a29fe7f44e5": {
-                    "last_login": "2026-03-31T21:30:38.702Z"
-                },
                 "188e9cce-a179-4068-8bed-9ca8a8013cdf": {
                     "last_login": "2026-03-31T22:50:53.201Z"
+                },
+                "6864d1e1-f460-4d66-8c8d-907fb496fdf8": {
+                    "last_login": "2026-03-31T22:52:02.399Z"
                 }
             },
             "expiry_date": "",
             "created_at": "2026-03-30T18:17:39.116Z",
-            "active_session": "188e9cce-a179-4068-8bed-9ca8a8013cdf",
-            "last_login": "2026-03-31T22:50:53.201Z"
+            "active_session": "6864d1e1-f460-4d66-8c8d-907fb496fdf8",
+            "last_login": "2026-03-31T22:52:02.399Z"
         }
     },
     "system_settings": {
