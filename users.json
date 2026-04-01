@@ -1,1186 +1,1186 @@
 {
-    "users": {
-        "rids3d@gmail.com": {
-            "password": "Trevuj123@",
-            "status": "approved",
-            "role": "admin",
-            "expiry_date": "2035-12-19T02:26:27.971267",
-            "persona": {
-                "name": "Daniel Reed",
-                "age": "40",
-                "dob": "November 23, 1985",
-                "gender": "Male",
-                "ethnicity": "",
-                "job": "IT Manager",
-                "job_type": "",
-                "occupation_area": "",
-                "post": "",
-                "company_size": "",
-                "company_revenue": "",
-                "income": "",
-                "assets": "",
-                "education": "",
-                "house": "",
-                "decision_maker": "",
-                "pets": "",
-                "address": "7 E 75th St",
-                "city": "New York (Zip: 10021)",
-                "state": "New York",
-                "marital_status": "Married",
-                "spouse_name": "Sara",
-                "spouse_age": "33",
-                "children": "2",
-                "child1": "14 year old boy James Fisher (18 Feb 2011)",
-                "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
-                "child_interest": "yes"
-            },
-            "media_access": {
-                "images": true,
-                "files": true,
-                "audio": true
-            },
-            "message_limit": false,
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-lite": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-3-flash-preview": true,
-                "gemini-2.5-flash-preview-09-2025": true
-            },
-            "auto_pilot": true,
-            "session_limit": 2,
-            "sessions": {}
-        },
-        "a@a.com": {
-            "password": "12345",
-            "refer": "bws",
-            "status": "approved",
-            "role": "user",
-            "expiry_date": "2030-01-26T05:21:38.850339",
-            "persona": {
-                "name": "Jake Fisher",
-                "age": "40",
-                "dob": "November 23, 1985",
-                "gender": "Male",
-                "ethnicity": "White (Not Hispanic/Latino)",
-                "job": "IT Manager",
-                "job_type": "Full time (30+HR)",
-                "occupation_area": "Information and Technology / Software",
-                "post": "Higher Managerial / Director",
-                "company_size": "500-999 employees",
-                "company_revenue": "50M-100M",
-                "income": "120,000 USD (Before Tax)",
-                "assets": "5 Million USD (Investable)",
-                "education": "PhD / Doctorate",
-                "house": "Own (Single Family Home)",
-                "decision_maker": "Myself (All sections)",
-                "pets": "Cat & Dog",
-                "address": "7 E 75th St",
-                "city": "New York",
-                "state": "New York",
-                "marital_status": "Married",
-                "spouse_name": "Sara",
-                "spouse_age": "33",
-                "children": "2",
-                "child1": "13 year old boy James Fisher (18 Feb 2011)",
-                "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
-                "child_interest": "Yes (Always)"
-            },
-            "created_at": "2025-12-27T05:21:22.803888",
-            "media_access": {
-                "images": true,
-                "files": true,
-                "audio": true
-            },
-            "message_limit": false,
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-lite": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-3-flash-preview": true,
-                "gemini-2.5-flash-preview-09-2025": true
-            },
-            "auto_pilot": true,
-            "session_limit": 2,
-            "sessions": {
-                "9a6afc8f-d9de-4452-bfbb-25f09a201f3a": {
-                    "last_login": "2026-04-01T09:38:32.673Z"
-                },
-                "01a3e0d8-cfb1-45b2-a9ad-1d728e30b6ae": {
-                    "last_login": "2026-04-01T17:17:13.240Z"
-                }
-            },
-            "active_session": "01a3e0d8-cfb1-45b2-a9ad-1d728e30b6ae",
-            "last_login": "2026-04-01T17:17:13.240Z",
-            "persona_profiles": {
-                "persona_mnc1xmqd_afea7lt4": {
-                    "persona": {
-                        "name": "Harley Buckley",
-                        "age": "40",
-                        "dob": "November 23, 1986",
-                        "gender": "Male",
-                        "ethnicity": "White (Not Hispanic/Latino)",
-                        "job": "IT Manager",
-                        "job_type": "Full time (30+HR)",
-                        "occupation_area": "Information and Technology / Software",
-                        "post": "Higher Managerial / Director",
-                        "company_size": "500-999 employees",
-                        "company_revenue": "50M-100M",
-                        "income": "120,000 USD (Before Tax)",
-                        "assets": "5 Million USD (Investable)",
-                        "education": "PhD / Doctorate",
-                        "house": "Own (Single Family Home)",
-                        "decision_maker": "Myself (All sections)",
-                        "pets": "Cat & Dog",
-                        "email": "hbuckley229@gmail.com",
-                        "address": "7 E 75th St",
-                        "city": "New York",
-                        "state": "New York",
-                        "zip": "10021",
-                        "marital_status": "Married",
-                        "spouse_name": "Sara",
-                        "spouse_age": "33",
-                        "children": "2",
-                        "child1": "13 year old boy James Fisher (18 Feb 2011)",
-                        "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
-                        "child_interest": "Yes (Always)",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-04-01T17:16:14.597Z"
-                }
-            }
-        },
-        "@alam": {
-            "password": "112233",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "bws",
-            "persona": {},
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-lite": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-2.5-flash-preview-09-2025": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 2,
-            "sessions": {
-                "e1a7c4ff-fe00-4f54-9060-67951a76e652": {
-                    "last_login": "2026-03-29T18:01:18.401Z"
-                },
-                "92983f65-eb91-4aa5-9c40-76d6335e8edd": {
-                    "last_login": "2026-03-29T18:13:06.595Z"
-                }
-            },
-            "expiry_date": "2026-06-27T16:01:09.919Z",
-            "created_at": "2026-03-29T15:59:51.560Z",
-            "active_session": "92983f65-eb91-4aa5-9c40-76d6335e8edd",
-            "last_login": "2026-03-29T18:13:06.595Z",
-            "persona_profiles": {
-                "persona_mnc2fa08_6b9oxo11": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-29T18:02:14.776Z"
-                },
-                "persona_mnc2twih_cctdsxvl": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-31T06:35:08.053Z"
-                }
-            }
-        },
-        "@nahid": {
-            "password": "112233",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "bws",
-            "persona": {},
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-2.5-flash-preview-09-2025": true,
-                "gemini-2.5-flash-lite": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 2,
-            "sessions": {
-                "ad1930fa-5d9f-44cc-8dbb-436c60b7c5cf": {
-                    "last_login": "2026-03-29T16:37:56.087Z"
-                },
-                "632fc87a-a9fd-4e0c-abb0-e95e6791d665": {
-                    "last_login": "2026-03-29T18:04:01.748Z"
-                }
-            },
-            "expiry_date": "2026-07-27T16:01:43.971Z",
-            "created_at": "2026-03-29T16:00:07.654Z",
-            "active_session": "632fc87a-a9fd-4e0c-abb0-e95e6791d665",
-            "last_login": "2026-03-29T18:04:01.748Z",
-            "persona_profiles": {
-                "persona_mnc2irme_710gthf8": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-29T18:04:19.069Z"
-                }
-            }
-        },
-        "farhan1": {
-            "password": "farhan",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "farhan",
-            "persona": {},
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-preview-09-2025": true,
-                "gemini-2.5-flash-lite": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 2,
-            "sessions": {
-                "1855d043-b962-47fb-b201-3bc7ca657230": {
-                    "last_login": "2026-03-30T20:23:13.917Z"
-                },
-                "c7a16413-724c-40f1-ac4d-b577f00a1847": {
-                    "last_login": "2026-03-30T20:27:05.539Z"
-                }
-            },
-            "expiry_date": "",
-            "created_at": "2026-03-29T16:29:39.110Z",
-            "active_session": "c7a16413-724c-40f1-ac4d-b577f00a1847",
-            "last_login": "2026-03-30T20:27:05.539Z",
-            "persona_profiles": {
-                "persona_mnd6vj1p_dts1kd6l": {
-                    "persona": {
-                        "name": "",
-                        "age": "49",
-                        "dob": "14  April 1975",
-                        "gender": "Male",
-                        "ethnicity": "White",
-                        "job": "IT",
-                        "job_type": "Director Of IT",
-                        "occupation_area": "Software",
-                        "post": "Director",
-                        "company_size": "5000",
-                        "company_revenue": "50M",
-                        "income": "165000",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "Primary Decision Maker",
-                        "pets": "",
-                        "email": "",
-                        "address": "4613 S McKinley Ave",
-                        "city": "Oklahoma City",
-                        "state": "Oklahoma",
-                        "zip": "73109",
-                        "marital_status": "Married ",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T12:56:05.659Z"
-                },
-                "persona_mnd67hwq_jm4rpb9d": {
-                    "persona": {
-                        "name": "Leon Olivia",
-                        "age": "51",
-                        "dob": "12  December 1974",
-                        "gender": "Female",
-                        "ethnicity": "White",
-                        "job": "IT",
-                        "job_type": "Software",
-                        "occupation_area": "Full Time",
-                        "post": "Director",
-                        "company_size": "5000",
-                        "company_revenue": "77M",
-                        "income": "150000",
-                        "assets": "500000",
-                        "education": "Masters ",
-                        "house": "Own",
-                        "decision_maker": "Primary",
-                        "pets": "2",
-                        "email": "",
-                        "address": "1409 102nd Ave",
-                        "city": "Oakland",
-                        "state": "California",
-                        "zip": "94605",
-                        "marital_status": "Married",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T23:12:39.601Z"
-                },
-                "persona_mndkfb0a_a2acg3hl": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-31T20:17:53.664Z"
-                }
-            }
-        },
-        "nstshimul@gmail.com": {
-            "password": "shimul",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "shimul",
-            "persona": {},
-            "persona_profiles": {
-                "persona_mndbl0nu_q5qstjln": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T18:29:19.371Z"
-                },
-                "persona_mnddsfp8_7miawk3a": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T16:55:50.851Z"
-                },
-                "persona_mnddo21e_cc2y3bms": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T17:18:53.327Z"
-                },
-                "persona_mnddshfy_xqhg0lu4": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T16:55:45.388Z"
-                },
-                "persona_mnddo2l1_xhehngxo": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-31T17:39:13.312Z"
-                },
-                "persona_mnddqzki_xb0shcck": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T17:16:47.440Z"
-                },
-                "persona_mnddsk1n_va35hzqs": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": "Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T17:17:09.429Z"
-                },
-                "persona_mnddruxm_cj13v3zy": {
-                    "persona": {
-                        "name": "Jude vante",
-                        "age": "40",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "not hispanic or latino",
-                        "job": "IT, Information Technology",
-                        "job_type": "employed full time",
-                        "occupation_area": "Washington ",
-                        "post": "98198",
-                        "company_size": "501-1000",
-                        "company_revenue": "25M-50M",
-                        "income": "150000",
-                        "assets": "",
-                        "education": "Master degree / Bachelor's degree",
-                        "house": "",
-                        "decision_maker": "Sole decision maker/Final decision maker",
-                        "pets": "2",
-                        "email": "",
-                        "address": "",
-                        "city": " Seattle ",
-                        "state": "Washington ",
-                        "zip": "98198",
-                        "marital_status": "Married",
-                        "spouse_name": "tisa",
-                        "spouse_age": "35",
-                        "children": "2",
-                        "child1": "16",
-                        "child2": "10",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T17:28:21.543Z"
-                }
-            },
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-lite": true,
-                "gemini-2.5-flash-preview-09-2025": true,
-                "gemini-3-flash-preview": false,
-                "gemini-flash-lite-latest": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 10,
-            "sessions": {
-                "4061a229-2d90-4ac8-975b-064410fdb659": {
-                    "last_login": "2026-03-30T16:14:34.793Z"
-                },
-                "ad581bce-79f4-4e8f-a863-b99b74d0d642": {
-                    "last_login": "2026-03-30T16:16:42.045Z"
-                },
-                "9f7ec025-12e0-4856-b6e5-908e177295c0": {
-                    "last_login": "2026-03-30T16:38:54.175Z"
-                },
-                "d3bc8dea-f956-4860-b639-a54166cf3d42": {
-                    "last_login": "2026-03-30T16:48:39.020Z"
-                },
-                "2b4b1aba-5faf-4478-85bd-dbc4be2bbb9d": {
-                    "last_login": "2026-03-30T16:49:02.059Z"
-                },
-                "b07e9225-58ea-49a0-9a5c-36e6fde5bce5": {
-                    "last_login": "2026-03-30T17:04:17.978Z"
-                },
-                "5ae7db74-2347-409b-a92d-793fa4df8392": {
-                    "last_login": "2026-03-30T17:04:27.666Z"
-                },
-                "4703b9b2-67b1-464a-89e7-f11f89153812": {
-                    "last_login": "2026-03-30T17:24:24.308Z"
-                },
-                "de33f72d-6663-4aad-a061-7fad32f46603": {
-                    "last_login": "2026-03-31T17:22:36.464Z"
-                }
-            },
-            "expiry_date": "",
-            "created_at": "2026-03-30T15:06:24.508Z",
-            "active_session": "de33f72d-6663-4aad-a061-7fad32f46603",
-            "last_login": "2026-03-31T17:22:36.464Z"
-        },
-        "farhan2": {
-            "password": "farhan",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "farhan",
-            "persona": {},
-            "persona_profiles": {
-                "persona_mndiftzx_gm36b10u": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T18:19:46.865Z"
-                },
-                "persona_mndmaljo_c1oaekni": {
-                    "persona": {
-                        "name": "Jonathan  Morris",
-                        "age": "51",
-                        "dob": "14 April 1975",
-                        "gender": "Male",
-                        "ethnicity": "White",
-                        "job": "IT",
-                        "job_type": "Software Engineering",
-                        "occupation_area": "Sftware",
-                        "post": "Director",
-                        "company_size": "5000",
-                        "company_revenue": "87M",
-                        "income": "165000",
-                        "assets": "500000",
-                        "education": "Masters",
-                        "house": "Owned",
-                        "decision_maker": "Primary",
-                        "pets": "2",
-                        "email": "",
-                        "address": "4613 S McKinley Ave",
-                        "city": "Oklahoma City",
-                        "state": "Oklahoma",
-                        "zip": "73109",
-                        "marital_status": "Married",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-31T19:51:23.920Z"
-                },
-                "persona_mndj1ofq_qvfuhoks": {
-                    "persona": {
-                        "name": "Breeden Jason  ",
-                        "age": "48",
-                        "dob": "7 july 1977",
-                        "gender": "Male",
-                        "ethnicity": "White",
-                        "job": "IT",
-                        "job_type": "On Office",
-                        "occupation_area": "",
-                        "post": "Director",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "3019 90th St",
-                        "city": "East Elmhurst",
-                        "state": "New York",
-                        "zip": "11369",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-30T23:04:22.015Z"
-                },
-                "persona_mnf4s1sg_xvlagkjj": {
-                    "persona": {
-                        "name": "Chris Holland",
-                        "age": "53",
-                        "dob": "11  November 1972.",
-                        "gender": "Male",
-                        "ethnicity": "White",
-                        "job": "Software Engineer",
-                        "job_type": "Full time",
-                        "occupation_area": "IT Hardware , Software",
-                        "post": "Director",
-                        "company_size": "5000",
-                        "company_revenue": "67M",
-                        "income": "165000",
-                        "assets": "770000",
-                        "education": "Masters",
-                        "house": "Own Single Family home",
-                        "decision_maker": "Primary",
-                        "pets": "2",
-                        "email": "",
-                        "address": "1015 NE Russell Rd",
-                        "city": "Kansas City",
-                        "state": "Missouri",
-                        "zip": "64116",
-                        "marital_status": "Married",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "2",
-                        "child1": "17 year",
-                        "child2": "9 year",
-                        "child_interest": "",
-                        "additional_info": "I am living in Urban.\nI am a Republican .\nConservative"
-                    },
-                    "updated_at": "2026-03-31T22:39:25.448Z"
-                },
-                "persona_mnf7na4m_i47urm60": {
-                    "persona": {
-                        "name": "Jose Contreras  ",
-                        "age": "51",
-                        "dob": "20 July 1974",
-                        "gender": "Male",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "281 E 168th St #2",
-                        "city": "Bronx",
-                        "state": "New York",
-                        "zip": "10456",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-03-31T22:53:58.430Z"
-                },
-                "persona_mnfbqhq4_961etztb": {
-                    "persona": {
-                        "name": "Jose Contreras  ",
-                        "age": "Age 51",
-                        "dob": "",
-                        "gender": "Male",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "281 E 168th St #2",
-                        "city": "Bronx",
-                        "state": "New York",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "17",
-                        "child2": "9",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-04-01T00:49:41.636Z"
-                }
-            },
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-2.5-flash-preview-09-2025": true,
-                "gemini-2.5-flash-lite": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 2,
-            "sessions": {
-                "6864d1e1-f460-4d66-8c8d-907fb496fdf8": {
-                    "last_login": "2026-03-31T22:52:02.399Z"
-                },
-                "7a8730e8-a813-4d45-8756-881da3fd131a": {
-                    "last_login": "2026-04-01T00:45:58.227Z"
-                }
-            },
-            "expiry_date": "",
-            "created_at": "2026-03-30T18:17:39.116Z",
-            "active_session": "7a8730e8-a813-4d45-8756-881da3fd131a",
-            "last_login": "2026-04-01T00:45:58.227Z"
-        },
-        "shahed": {
-            "password": "shahed@1234",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "bws",
-            "persona": {},
-            "persona_profiles": {
-                "persona_mng9ted4_grm5u77m": {
-                    "persona": {
-                        "name": "",
-                        "age": "",
-                        "dob": "",
-                        "gender": "",
-                        "ethnicity": "",
-                        "job": "",
-                        "job_type": "",
-                        "occupation_area": "",
-                        "post": "",
-                        "company_size": "",
-                        "company_revenue": "",
-                        "income": "",
-                        "assets": "",
-                        "education": "",
-                        "house": "",
-                        "decision_maker": "",
-                        "pets": "",
-                        "email": "",
-                        "address": "",
-                        "city": "",
-                        "state": "",
-                        "zip": "",
-                        "marital_status": "",
-                        "spouse_name": "",
-                        "spouse_age": "",
-                        "children": "",
-                        "child1": "",
-                        "child2": "",
-                        "child_interest": "",
-                        "additional_info": ""
-                    },
-                    "updated_at": "2026-04-01T16:44:51.369Z"
-                }
-            },
-            "model_access": {
-                "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true,
-                "gemini-2.5-flash-lite": true,
-                "gemini-flash-lite-latest": true,
-                "gemini-2.5-flash-preview-09-2025": true
-            },
-            "media_access": {
-                "images": true,
-                "audio": true,
-                "files": true
-            },
-            "auto_pilot": true,
-            "message_limit": false,
-            "session_limit": 2,
-            "sessions": {
-                "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c": {
-                    "last_login": "2026-04-01T16:44:09.307Z"
-                }
-            },
-            "expiry_date": "",
-            "created_at": "2026-04-01T16:39:46.589Z",
-            "active_session": "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c",
-            "last_login": "2026-04-01T16:44:09.307Z"
-        }
+  "users": {
+    "rids3d@gmail.com": {
+      "password": "Trevuj123@",
+      "status": "approved",
+      "role": "admin",
+      "expiry_date": "2035-12-19T02:26:27.971267",
+      "persona": {
+        "name": "Daniel Reed",
+        "age": "40",
+        "dob": "November 23, 1985",
+        "gender": "Male",
+        "ethnicity": "",
+        "job": "IT Manager",
+        "job_type": "",
+        "occupation_area": "",
+        "post": "",
+        "company_size": "",
+        "company_revenue": "",
+        "income": "",
+        "assets": "",
+        "education": "",
+        "house": "",
+        "decision_maker": "",
+        "pets": "",
+        "address": "7 E 75th St",
+        "city": "New York (Zip: 10021)",
+        "state": "New York",
+        "marital_status": "Married",
+        "spouse_name": "Sara",
+        "spouse_age": "33",
+        "children": "2",
+        "child1": "14 year old boy James Fisher (18 Feb 2011)",
+        "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
+        "child_interest": "yes"
+      },
+      "media_access": {
+        "images": true,
+        "files": true,
+        "audio": true
+      },
+      "message_limit": false,
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-lite": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-3-flash-preview": true,
+        "gemini-2.5-flash-preview-09-2025": true
+      },
+      "auto_pilot": true,
+      "session_limit": 2,
+      "sessions": {}
     },
-    "system_settings": {
-        "models_config": [
-            {
-                "id": "gemini-2.5-flash",
-                "name": "Gemini 2.5 Flash",
-                "priority": 3
-            },
-            {
-                "id": "gemini-robotics-er-1.5-preview",
-                "name": "Gemini Robotics ER",
-                "priority": 4
-            },
-            {
-                "id": "gemini-2.5-flash-lite",
-                "name": "Gemini 2.5 Flash Lite",
-                "priority": 5
-            },
-            {
-                "id": "gemini-flash-lite-latest",
-                "name": "Gemini Flash Lite Latest",
-                "priority": 6
-            },
-            {
-                "id": "gemini-3-flash-preview",
-                "name": "gemini-3",
-                "priority": 7
-            },
-            {
-                "id": "gemini-2.5-flash-preview-09-2025",
-                "name": "gemini-2.5-flash-preview-09-2025",
-                "priority": 6
-            }
-        ],
-        "models": {
-            "gemini-2.5-flash": true,
-            "gemini-robotics-er-1.5-preview": true,
-            "gemini-2.5-flash-lite": true,
-            "gemini-flash-lite-latest": true,
-            "gemini-3-flash-preview": false,
-            "gemini-2.5-flash-preview-09-2025": true
+    "a@a.com": {
+      "password": "12345",
+      "refer": "bws",
+      "status": "approved",
+      "role": "user",
+      "expiry_date": "2030-01-26T05:21:38.850339",
+      "persona": {
+        "name": "Jake Fisher",
+        "age": "40",
+        "dob": "November 23, 1985",
+        "gender": "Male",
+        "ethnicity": "White (Not Hispanic/Latino)",
+        "job": "IT Manager",
+        "job_type": "Full time (30+HR)",
+        "occupation_area": "Information and Technology / Software",
+        "post": "Higher Managerial / Director",
+        "company_size": "500-999 employees",
+        "company_revenue": "50M-100M",
+        "income": "120,000 USD (Before Tax)",
+        "assets": "5 Million USD (Investable)",
+        "education": "PhD / Doctorate",
+        "house": "Own (Single Family Home)",
+        "decision_maker": "Myself (All sections)",
+        "pets": "Cat & Dog",
+        "address": "7 E 75th St",
+        "city": "New York",
+        "state": "New York",
+        "marital_status": "Married",
+        "spouse_name": "Sara",
+        "spouse_age": "33",
+        "children": "2",
+        "child1": "13 year old boy James Fisher (18 Feb 2011)",
+        "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
+        "child_interest": "Yes (Always)"
+      },
+      "created_at": "2025-12-27T05:21:22.803888",
+      "media_access": {
+        "images": true,
+        "files": true,
+        "audio": true
+      },
+      "message_limit": false,
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-lite": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-3-flash-preview": true,
+        "gemini-2.5-flash-preview-09-2025": true
+      },
+      "auto_pilot": true,
+      "session_limit": 2,
+      "sessions": {
+        "9a6afc8f-d9de-4452-bfbb-25f09a201f3a": {
+          "last_login": "2026-04-01T09:38:32.673Z"
         },
-        "extension": {
-            "version": "3.4",
-            "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
-            "filename": "vector-v3.4.crx",
-            "uploaded_at": "2025-12-29T07:06:42.715402"
-        },
-        "new_registrations": true,
-        "refer_only_mode": true
-    },
-    "refer_codes": {
-        "farhan": {
-            "created_at": "2025-12-24T16:30:47.622790",
-            "created_by": "rids3d@gmail.com"
-        },
-        "bws": {
-            "created_at": "2025-12-26T17:48:49.338132",
-            "created_by": "rids3d@gmail.com"
+        "01a3e0d8-cfb1-45b2-a9ad-1d728e30b6ae": {
+          "last_login": "2026-04-01T17:17:13.240Z"
         }
+      },
+      "active_session": "01a3e0d8-cfb1-45b2-a9ad-1d728e30b6ae",
+      "last_login": "2026-04-01T17:17:13.240Z",
+      "persona_profiles": {
+        "persona_mnc1xmqd_afea7lt4": {
+          "persona": {
+            "name": "jack fisher",
+            "age": "40",
+            "dob": "November 23, 1986",
+            "gender": "Male",
+            "ethnicity": "White (Not Hispanic/Latino)",
+            "job": "IT Manager",
+            "job_type": "Full time (30+HR)",
+            "occupation_area": "Information and Technology / Software",
+            "post": "Higher Managerial / Director",
+            "company_size": "500-999 employees",
+            "company_revenue": "50M-100M",
+            "income": "120,000 USD (Before Tax)",
+            "assets": "5 Million USD (Investable)",
+            "education": "PhD / Doctorate",
+            "house": "Own (Single Family Home)",
+            "decision_maker": "Myself (All sections)",
+            "pets": "Cat & Dog",
+            "email": "hbuckley229@gmail.com",
+            "address": "7 E 75th St",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10021",
+            "marital_status": "Married",
+            "spouse_name": "Sara",
+            "spouse_age": "33",
+            "children": "2",
+            "child1": "13 year old boy James Fisher (18 Feb 2011)",
+            "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
+            "child_interest": "Yes (Always)",
+            "additional_info": ""
+          },
+          "updated_at": "2026-04-01T17:17:40.247Z"
+        }
+      }
+    },
+    "@alam": {
+      "password": "112233",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "bws",
+      "persona": {},
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-lite": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-2.5-flash-preview-09-2025": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {
+        "e1a7c4ff-fe00-4f54-9060-67951a76e652": {
+          "last_login": "2026-03-29T18:01:18.401Z"
+        },
+        "92983f65-eb91-4aa5-9c40-76d6335e8edd": {
+          "last_login": "2026-03-29T18:13:06.595Z"
+        }
+      },
+      "expiry_date": "2026-06-27T16:01:09.919Z",
+      "created_at": "2026-03-29T15:59:51.560Z",
+      "active_session": "92983f65-eb91-4aa5-9c40-76d6335e8edd",
+      "last_login": "2026-03-29T18:13:06.595Z",
+      "persona_profiles": {
+        "persona_mnc2fa08_6b9oxo11": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-29T18:02:14.776Z"
+        },
+        "persona_mnc2twih_cctdsxvl": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-31T06:35:08.053Z"
+        }
+      }
+    },
+    "@nahid": {
+      "password": "112233",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "bws",
+      "persona": {},
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-2.5-flash-preview-09-2025": true,
+        "gemini-2.5-flash-lite": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {
+        "ad1930fa-5d9f-44cc-8dbb-436c60b7c5cf": {
+          "last_login": "2026-03-29T16:37:56.087Z"
+        },
+        "632fc87a-a9fd-4e0c-abb0-e95e6791d665": {
+          "last_login": "2026-03-29T18:04:01.748Z"
+        }
+      },
+      "expiry_date": "2026-07-27T16:01:43.971Z",
+      "created_at": "2026-03-29T16:00:07.654Z",
+      "active_session": "632fc87a-a9fd-4e0c-abb0-e95e6791d665",
+      "last_login": "2026-03-29T18:04:01.748Z",
+      "persona_profiles": {
+        "persona_mnc2irme_710gthf8": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-29T18:04:19.069Z"
+        }
+      }
+    },
+    "farhan1": {
+      "password": "farhan",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "farhan",
+      "persona": {},
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-preview-09-2025": true,
+        "gemini-2.5-flash-lite": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {
+        "1855d043-b962-47fb-b201-3bc7ca657230": {
+          "last_login": "2026-03-30T20:23:13.917Z"
+        },
+        "c7a16413-724c-40f1-ac4d-b577f00a1847": {
+          "last_login": "2026-03-30T20:27:05.539Z"
+        }
+      },
+      "expiry_date": "",
+      "created_at": "2026-03-29T16:29:39.110Z",
+      "active_session": "c7a16413-724c-40f1-ac4d-b577f00a1847",
+      "last_login": "2026-03-30T20:27:05.539Z",
+      "persona_profiles": {
+        "persona_mnd6vj1p_dts1kd6l": {
+          "persona": {
+            "name": "",
+            "age": "49",
+            "dob": "14  April 1975",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "IT",
+            "job_type": "Director Of IT",
+            "occupation_area": "Software",
+            "post": "Director",
+            "company_size": "5000",
+            "company_revenue": "50M",
+            "income": "165000",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "Primary Decision Maker",
+            "pets": "",
+            "email": "",
+            "address": "4613 S McKinley Ave",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "zip": "73109",
+            "marital_status": "Married ",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T12:56:05.659Z"
+        },
+        "persona_mnd67hwq_jm4rpb9d": {
+          "persona": {
+            "name": "Leon Olivia",
+            "age": "51",
+            "dob": "12  December 1974",
+            "gender": "Female",
+            "ethnicity": "White",
+            "job": "IT",
+            "job_type": "Software",
+            "occupation_area": "Full Time",
+            "post": "Director",
+            "company_size": "5000",
+            "company_revenue": "77M",
+            "income": "150000",
+            "assets": "500000",
+            "education": "Masters ",
+            "house": "Own",
+            "decision_maker": "Primary",
+            "pets": "2",
+            "email": "",
+            "address": "1409 102nd Ave",
+            "city": "Oakland",
+            "state": "California",
+            "zip": "94605",
+            "marital_status": "Married",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T23:12:39.601Z"
+        },
+        "persona_mndkfb0a_a2acg3hl": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-31T20:17:53.664Z"
+        }
+      }
+    },
+    "nstshimul@gmail.com": {
+      "password": "shimul",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "shimul",
+      "persona": {},
+      "persona_profiles": {
+        "persona_mndbl0nu_q5qstjln": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T18:29:19.371Z"
+        },
+        "persona_mnddsfp8_7miawk3a": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T16:55:50.851Z"
+        },
+        "persona_mnddo21e_cc2y3bms": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T17:18:53.327Z"
+        },
+        "persona_mnddshfy_xqhg0lu4": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T16:55:45.388Z"
+        },
+        "persona_mnddo2l1_xhehngxo": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-31T17:39:13.312Z"
+        },
+        "persona_mnddqzki_xb0shcck": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T17:16:47.440Z"
+        },
+        "persona_mnddsk1n_va35hzqs": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": "Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T17:17:09.429Z"
+        },
+        "persona_mnddruxm_cj13v3zy": {
+          "persona": {
+            "name": "Jude vante",
+            "age": "40",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "not hispanic or latino",
+            "job": "IT, Information Technology",
+            "job_type": "employed full time",
+            "occupation_area": "Washington ",
+            "post": "98198",
+            "company_size": "501-1000",
+            "company_revenue": "25M-50M",
+            "income": "150000",
+            "assets": "",
+            "education": "Master degree / Bachelor's degree",
+            "house": "",
+            "decision_maker": "Sole decision maker/Final decision maker",
+            "pets": "2",
+            "email": "",
+            "address": "",
+            "city": " Seattle ",
+            "state": "Washington ",
+            "zip": "98198",
+            "marital_status": "Married",
+            "spouse_name": "tisa",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "16",
+            "child2": "10",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T17:28:21.543Z"
+        }
+      },
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-lite": true,
+        "gemini-2.5-flash-preview-09-2025": true,
+        "gemini-3-flash-preview": false,
+        "gemini-flash-lite-latest": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 10,
+      "sessions": {
+        "4061a229-2d90-4ac8-975b-064410fdb659": {
+          "last_login": "2026-03-30T16:14:34.793Z"
+        },
+        "ad581bce-79f4-4e8f-a863-b99b74d0d642": {
+          "last_login": "2026-03-30T16:16:42.045Z"
+        },
+        "9f7ec025-12e0-4856-b6e5-908e177295c0": {
+          "last_login": "2026-03-30T16:38:54.175Z"
+        },
+        "d3bc8dea-f956-4860-b639-a54166cf3d42": {
+          "last_login": "2026-03-30T16:48:39.020Z"
+        },
+        "2b4b1aba-5faf-4478-85bd-dbc4be2bbb9d": {
+          "last_login": "2026-03-30T16:49:02.059Z"
+        },
+        "b07e9225-58ea-49a0-9a5c-36e6fde5bce5": {
+          "last_login": "2026-03-30T17:04:17.978Z"
+        },
+        "5ae7db74-2347-409b-a92d-793fa4df8392": {
+          "last_login": "2026-03-30T17:04:27.666Z"
+        },
+        "4703b9b2-67b1-464a-89e7-f11f89153812": {
+          "last_login": "2026-03-30T17:24:24.308Z"
+        },
+        "de33f72d-6663-4aad-a061-7fad32f46603": {
+          "last_login": "2026-03-31T17:22:36.464Z"
+        }
+      },
+      "expiry_date": "",
+      "created_at": "2026-03-30T15:06:24.508Z",
+      "active_session": "de33f72d-6663-4aad-a061-7fad32f46603",
+      "last_login": "2026-03-31T17:22:36.464Z"
+    },
+    "farhan2": {
+      "password": "farhan",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "farhan",
+      "persona": {},
+      "persona_profiles": {
+        "persona_mndiftzx_gm36b10u": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T18:19:46.865Z"
+        },
+        "persona_mndmaljo_c1oaekni": {
+          "persona": {
+            "name": "Jonathan  Morris",
+            "age": "51",
+            "dob": "14 April 1975",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "IT",
+            "job_type": "Software Engineering",
+            "occupation_area": "Sftware",
+            "post": "Director",
+            "company_size": "5000",
+            "company_revenue": "87M",
+            "income": "165000",
+            "assets": "500000",
+            "education": "Masters",
+            "house": "Owned",
+            "decision_maker": "Primary",
+            "pets": "2",
+            "email": "",
+            "address": "4613 S McKinley Ave",
+            "city": "Oklahoma City",
+            "state": "Oklahoma",
+            "zip": "73109",
+            "marital_status": "Married",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-31T19:51:23.920Z"
+        },
+        "persona_mndj1ofq_qvfuhoks": {
+          "persona": {
+            "name": "Breeden Jason  ",
+            "age": "48",
+            "dob": "7 july 1977",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "IT",
+            "job_type": "On Office",
+            "occupation_area": "",
+            "post": "Director",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "3019 90th St",
+            "city": "East Elmhurst",
+            "state": "New York",
+            "zip": "11369",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-30T23:04:22.015Z"
+        },
+        "persona_mnf4s1sg_xvlagkjj": {
+          "persona": {
+            "name": "Chris Holland",
+            "age": "53",
+            "dob": "11  November 1972.",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "Software Engineer",
+            "job_type": "Full time",
+            "occupation_area": "IT Hardware , Software",
+            "post": "Director",
+            "company_size": "5000",
+            "company_revenue": "67M",
+            "income": "165000",
+            "assets": "770000",
+            "education": "Masters",
+            "house": "Own Single Family home",
+            "decision_maker": "Primary",
+            "pets": "2",
+            "email": "",
+            "address": "1015 NE Russell Rd",
+            "city": "Kansas City",
+            "state": "Missouri",
+            "zip": "64116",
+            "marital_status": "Married",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "2",
+            "child1": "17 year",
+            "child2": "9 year",
+            "child_interest": "",
+            "additional_info": "I am living in Urban.\nI am a Republican .\nConservative"
+          },
+          "updated_at": "2026-03-31T22:39:25.448Z"
+        },
+        "persona_mnf7na4m_i47urm60": {
+          "persona": {
+            "name": "Jose Contreras  ",
+            "age": "51",
+            "dob": "20 July 1974",
+            "gender": "Male",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "281 E 168th St #2",
+            "city": "Bronx",
+            "state": "New York",
+            "zip": "10456",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-03-31T22:53:58.430Z"
+        },
+        "persona_mnfbqhq4_961etztb": {
+          "persona": {
+            "name": "Jose Contreras  ",
+            "age": "Age 51",
+            "dob": "",
+            "gender": "Male",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "281 E 168th St #2",
+            "city": "Bronx",
+            "state": "New York",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "17",
+            "child2": "9",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-04-01T00:49:41.636Z"
+        }
+      },
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-2.5-flash-preview-09-2025": true,
+        "gemini-2.5-flash-lite": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {
+        "6864d1e1-f460-4d66-8c8d-907fb496fdf8": {
+          "last_login": "2026-03-31T22:52:02.399Z"
+        },
+        "7a8730e8-a813-4d45-8756-881da3fd131a": {
+          "last_login": "2026-04-01T00:45:58.227Z"
+        }
+      },
+      "expiry_date": "",
+      "created_at": "2026-03-30T18:17:39.116Z",
+      "active_session": "7a8730e8-a813-4d45-8756-881da3fd131a",
+      "last_login": "2026-04-01T00:45:58.227Z"
+    },
+    "shahed": {
+      "password": "shahed@1234",
+      "status": "approved",
+      "role": "user",
+      "refer_code": "bws",
+      "persona": {},
+      "persona_profiles": {
+        "persona_mng9ted4_grm5u77m": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-04-01T16:44:51.369Z"
+        }
+      },
+      "model_access": {
+        "gemini-2.5-flash": true,
+        "gemini-robotics-er-1.5-preview": true,
+        "gemini-2.5-flash-lite": true,
+        "gemini-flash-lite-latest": true,
+        "gemini-2.5-flash-preview-09-2025": true
+      },
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": true,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {
+        "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c": {
+          "last_login": "2026-04-01T16:44:09.307Z"
+        }
+      },
+      "expiry_date": "",
+      "created_at": "2026-04-01T16:39:46.589Z",
+      "active_session": "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c",
+      "last_login": "2026-04-01T16:44:09.307Z"
     }
+  },
+  "system_settings": {
+    "models_config": [
+      {
+        "id": "gemini-2.5-flash",
+        "name": "Gemini 2.5 Flash",
+        "priority": 3
+      },
+      {
+        "id": "gemini-robotics-er-1.5-preview",
+        "name": "Gemini Robotics ER",
+        "priority": 4
+      },
+      {
+        "id": "gemini-2.5-flash-lite",
+        "name": "Gemini 2.5 Flash Lite",
+        "priority": 5
+      },
+      {
+        "id": "gemini-flash-lite-latest",
+        "name": "Gemini Flash Lite Latest",
+        "priority": 6
+      },
+      {
+        "id": "gemini-3-flash-preview",
+        "name": "gemini-3",
+        "priority": 7
+      },
+      {
+        "id": "gemini-2.5-flash-preview-09-2025",
+        "name": "gemini-2.5-flash-preview-09-2025",
+        "priority": 6
+      }
+    ],
+    "models": {
+      "gemini-2.5-flash": true,
+      "gemini-robotics-er-1.5-preview": true,
+      "gemini-2.5-flash-lite": true,
+      "gemini-flash-lite-latest": true,
+      "gemini-3-flash-preview": false,
+      "gemini-2.5-flash-preview-09-2025": true
+    },
+    "extension": {
+      "version": "3.4",
+      "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
+      "filename": "vector-v3.4.crx",
+      "uploaded_at": "2025-12-29T07:06:42.715402"
+    },
+    "new_registrations": true,
+    "refer_only_mode": true
+  },
+  "refer_codes": {
+    "farhan": {
+      "created_at": "2025-12-24T16:30:47.622790",
+      "created_by": "rids3d@gmail.com"
+    },
+    "bws": {
+      "created_at": "2025-12-26T17:48:49.338132",
+      "created_by": "rids3d@gmail.com"
+    }
+  }
 }
