@@ -1165,7 +1165,8 @@
             "persona": {},
             "persona_profiles": {},
             "model_access": {
-                "gemini-2.5-flash-lite": true
+                "gemini-2.5-flash-lite": true,
+                "gemini-2.5-flash": true
             },
             "media_access": {
                 "images": true,
