@@ -1159,7 +1159,7 @@
         },
         "masterpro": {
             "password": "12345",
-            "status": "pending",
+            "status": "approved",
             "role": "user",
             "refer_code": "farhan",
             "persona": {},
