@@ -1150,12 +1150,15 @@
             "sessions": {
                 "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c": {
                     "last_login": "2026-04-01T16:44:09.307Z"
+                },
+                "fe04081e-35a6-4603-ad8b-0fbaa3c9afab": {
+                    "last_login": "2026-04-02T17:04:51.251Z"
                 }
             },
             "expiry_date": "2026-05-01T17:39:15.587Z",
             "created_at": "2026-04-01T16:39:46.589Z",
-            "active_session": "0ef54e4e-d769-46ce-8c72-9d0c1ffa1a6c",
-            "last_login": "2026-04-01T16:44:09.307Z"
+            "active_session": "fe04081e-35a6-4603-ad8b-0fbaa3c9afab",
+            "last_login": "2026-04-02T17:04:51.251Z"
         },
         "masterpro": {
             "password": "12345",
