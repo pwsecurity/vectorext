@@ -1220,12 +1220,15 @@
             "sessions": {
                 "2562f5f3-6bca-4096-ac9a-c43e3dd0e4fc": {
                     "last_login": "2026-04-01T20:54:50.537Z"
+                },
+                "a9cc6fac-cb3d-46be-aa28-cd20ac79936f": {
+                    "last_login": "2026-04-02T19:56:40.023Z"
                 }
             },
             "expiry_date": "2026-05-02T00:07:21.555Z",
             "created_at": "2026-04-01T20:54:26.243Z",
-            "active_session": "2562f5f3-6bca-4096-ac9a-c43e3dd0e4fc",
-            "last_login": "2026-04-01T20:54:50.537Z"
+            "active_session": "a9cc6fac-cb3d-46be-aa28-cd20ac79936f",
+            "last_login": "2026-04-02T19:56:40.023Z"
         }
     },
     "system_settings": {
