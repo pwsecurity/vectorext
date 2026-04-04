@@ -107,10 +107,13 @@
             "sessions": {
                 "2ef901e2-25ee-4c3d-bbde-5ba24136eeef": {
                     "last_login": "2026-04-03T12:07:43.842Z"
+                },
+                "3c592a3a-2f22-4e1a-acce-77d28bbebbbc": {
+                    "last_login": "2026-04-04T09:17:57.336Z"
                 }
             },
-            "active_session": "2ef901e2-25ee-4c3d-bbde-5ba24136eeef",
-            "last_login": "2026-04-03T12:07:43.842Z",
+            "active_session": "3c592a3a-2f22-4e1a-acce-77d28bbebbbc",
+            "last_login": "2026-04-04T09:17:57.336Z",
             "persona_profiles": {
                 "persona_mnc1xmqd_afea7lt4": {
                     "persona": {
