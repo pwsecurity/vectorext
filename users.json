@@ -1499,9 +1499,15 @@
             "auto_pilot": true,
             "message_limit": false,
             "session_limit": 2,
-            "sessions": {},
+            "sessions": {
+                "033e4923-254c-4883-a384-c23717137548": {
+                    "last_login": "2026-04-04T18:52:10.956Z"
+                }
+            },
             "expiry_date": "",
-            "created_at": "2026-04-04T18:50:04.087Z"
+            "created_at": "2026-04-04T18:50:04.087Z",
+            "active_session": "033e4923-254c-4883-a384-c23717137548",
+            "last_login": "2026-04-04T18:52:10.956Z"
         }
     },
     "system_settings": {
