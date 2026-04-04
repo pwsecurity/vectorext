@@ -1381,7 +1381,7 @@
         "persona_mnkntjqe_uwet351a": {
           "persona": {
             "name": "",
-            "age": "",
+            "age": "45",
             "dob": "",
             "gender": "Male",
             "ethnicity": "White",
@@ -1411,7 +1411,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-04-04T18:43:47.447Z"
+          "updated_at": "2026-04-04T18:44:47.918Z"
         }
       },
       "model_access": {
