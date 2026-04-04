@@ -1479,7 +1479,7 @@
         },
         "faria": {
             "password": "22222",
-            "status": "pending",
+            "status": "approved",
             "role": "user",
             "refer_code": "farhan",
             "persona": {},
