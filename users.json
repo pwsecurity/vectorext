@@ -1383,17 +1383,17 @@
             "name": "",
             "age": "",
             "dob": "",
-            "gender": "",
-            "ethnicity": "",
-            "job": "",
-            "job_type": "",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "Information technology",
+            "job_type": "IT",
             "occupation_area": "",
-            "post": "",
-            "company_size": "",
-            "company_revenue": "",
-            "income": "",
+            "post": "Senior meneger",
+            "company_size": "2500",
+            "company_revenue": "9990000",
+            "income": "249000",
             "assets": "",
-            "education": "",
+            "education": "Master Degree",
             "house": "",
             "decision_maker": "",
             "pets": "",
@@ -1411,7 +1411,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-04-04T18:38:04.465Z"
+          "updated_at": "2026-04-04T18:42:02.127Z"
         }
       },
       "model_access": {
