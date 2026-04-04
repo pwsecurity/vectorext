@@ -1387,7 +1387,7 @@
             "ethnicity": "White",
             "job": "Information technology",
             "job_type": "IT",
-            "occupation_area": "",
+            "occupation_area": "oregon",
             "post": "Senior meneger",
             "company_size": "2500",
             "company_revenue": "9990000",
@@ -1399,19 +1399,19 @@
             "pets": "",
             "email": "",
             "address": "",
-            "city": "",
-            "state": "",
-            "zip": "",
+            "city": "Bend",
+            "state": "Oregon",
+            "zip": "97708",
             "marital_status": "",
             "spouse_name": "",
             "spouse_age": "",
-            "children": "",
-            "child1": "",
-            "child2": "",
+            "children": "2",
+            "child1": "10 years old Male",
+            "child2": "14 years old Female",
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-04-04T18:42:02.127Z"
+          "updated_at": "2026-04-04T18:43:47.447Z"
         }
       },
       "model_access": {
