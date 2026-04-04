@@ -1306,6 +1306,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-04-04T18:01:44.298Z"
+        },
+        "persona_mnkoatjo_895mzugs": {
+          "persona": {
+            "name": "Adrian Hernandez ",
+            "age": "41",
+            "dob": "September 1981",
+            "gender": "make",
+            "ethnicity": "",
+            "job": "Employee at a IT company ",
+            "job_type": "full time",
+            "occupation_area": "Corpus Christi ",
+            "post": "Manager",
+            "company_size": "More than 5000 workers work here",
+            "company_revenue": "500000 to 1000000",
+            "income": "more then 125000",
+            "assets": "3000000",
+            "education": "Master's ",
+            "house": "Own",
+            "decision_maker": "Self",
+            "pets": "Cats , dogs and birds",
+            "email": "",
+            "address": "3609 Berkeley Dr  Corpus Christi, TX 78414",
+            "city": " Corpus Christi",
+            "state": "Texas ",
+            "zip": "78414",
+            "marital_status": "Married ",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "2 Under 18",
+            "child1": "Girl age of 17",
+            "child2": "Boy age of 9",
+            "child_interest": "",
+            "additional_info": "I like to travel a lot during my vacation time, go to different different countries and tech enthusiasts who buy a lot tech gadget "
+          },
+          "updated_at": "2026-04-04T18:48:13.945Z"
         }
       },
       "model_access": {
