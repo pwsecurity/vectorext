@@ -845,9 +845,6 @@
             "message_limit": false,
             "session_limit": 10,
             "sessions": {
-                "4061a229-2d90-4ac8-975b-064410fdb659": {
-                    "last_login": "2026-03-30T16:14:34.793Z"
-                },
                 "ad581bce-79f4-4e8f-a863-b99b74d0d642": {
                     "last_login": "2026-03-30T16:16:42.045Z"
                 },
@@ -874,12 +871,15 @@
                 },
                 "e3231eab-18f9-471d-90e5-7f97e8d95383": {
                     "last_login": "2026-04-06T08:37:45.779Z"
+                },
+                "57372837-874e-4444-852b-53318439778c": {
+                    "last_login": "2026-04-06T08:38:51.750Z"
                 }
             },
             "expiry_date": "",
             "created_at": "2026-03-30T15:06:24.508Z",
-            "active_session": "e3231eab-18f9-471d-90e5-7f97e8d95383",
-            "last_login": "2026-04-06T08:37:45.779Z"
+            "active_session": "57372837-874e-4444-852b-53318439778c",
+            "last_login": "2026-04-06T08:38:51.750Z"
         },
         "farhan2": {
             "password": "farhan",
