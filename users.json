@@ -1616,15 +1616,12 @@
             "sessions": {
                 "d0a31f97-b5d5-4478-a367-b3095a3cb256": {
                     "last_login": "2026-04-08T10:25:08.338Z"
-                },
-                "d23036b1-969e-4eb8-ab57-9008798c9f46": {
-                    "last_login": "2026-04-08T13:10:00.286Z"
                 }
             },
             "expiry_date": "2026-05-01T17:51:15.140Z",
             "created_at": "2026-03-30T18:17:39.116Z",
-            "active_session": "d23036b1-969e-4eb8-ab57-9008798c9f46",
-            "last_login": "2026-04-08T13:10:00.286Z"
+            "active_session": "d0a31f97-b5d5-4478-a367-b3095a3cb256",
+            "last_login": "2026-04-08T10:25:08.338Z"
         },
         "shahed": {
             "password": "shahed@1234",
