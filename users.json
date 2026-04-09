@@ -1686,17 +1686,17 @@
             "message_limit": false,
             "session_limit": 2,
             "sessions": {
-                "7e9c9ead-f679-445c-b4e2-7a49b59e40bd": {
-                    "last_login": "2026-04-09T18:51:41.315Z"
-                },
                 "d635a714-d11f-4ccd-b49a-edc07ed5d1a3": {
                     "last_login": "2026-04-09T20:32:13.018Z"
+                },
+                "0305c9c7-b66d-4864-a840-9a2c2e990028": {
+                    "last_login": "2026-04-09T20:47:44.992Z"
                 }
             },
             "expiry_date": "2026-05-01T17:51:15.140Z",
             "created_at": "2026-03-30T18:17:39.116Z",
-            "active_session": "d635a714-d11f-4ccd-b49a-edc07ed5d1a3",
-            "last_login": "2026-04-09T20:32:13.018Z"
+            "active_session": "0305c9c7-b66d-4864-a840-9a2c2e990028",
+            "last_login": "2026-04-09T20:47:44.992Z"
         },
         "shahed": {
             "password": "shahed@1234",
