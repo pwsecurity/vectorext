@@ -51,15 +51,15 @@
             "auto_pilot": true,
             "session_limit": 2,
             "sessions": {
-                "716b5685-8e9d-421a-8c66-551e7f51fe63": {
-                    "last_login": "2026-04-07T20:11:34.082Z"
-                },
                 "8cffb67f-ed3b-44c3-978d-625a79ae9dc8": {
                     "last_login": "2026-04-09T13:14:29.728Z"
+                },
+                "df887658-e791-49a0-b61b-81f94beb551e": {
+                    "last_login": "2026-04-09T15:23:31.903Z"
                 }
             },
-            "active_session": "8cffb67f-ed3b-44c3-978d-625a79ae9dc8",
-            "last_login": "2026-04-09T13:14:29.728Z",
+            "active_session": "df887658-e791-49a0-b61b-81f94beb551e",
+            "last_login": "2026-04-09T15:23:31.903Z",
             "persona_profiles": {
                 "persona_mnir75ho_azj85j4m": {
                     "persona": {
