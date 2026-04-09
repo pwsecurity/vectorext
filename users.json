@@ -784,12 +784,15 @@
             "sessions": {
                 "4fdb241d-6237-401b-89a0-f3294001eb03": {
                     "last_login": "2026-04-07T20:58:12.912Z"
+                },
+                "c5cc28ee-614e-41bb-8caf-29d63273162b": {
+                    "last_login": "2026-04-09T19:53:09.908Z"
                 }
             },
             "expiry_date": "2026-05-01T17:51:24.465Z",
             "created_at": "2026-03-29T16:29:39.110Z",
-            "active_session": "4fdb241d-6237-401b-89a0-f3294001eb03",
-            "last_login": "2026-04-07T20:58:12.912Z",
+            "active_session": "c5cc28ee-614e-41bb-8caf-29d63273162b",
+            "last_login": "2026-04-09T19:53:09.908Z",
             "persona_profiles": {
                 "persona_mnd6vj1p_dts1kd6l": {
                     "persona": {
