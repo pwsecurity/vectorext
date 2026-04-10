@@ -2131,7 +2131,8 @@
             "persona_profiles": {},
             "model_access": {
                 "gemini-2.5-flash": true,
-                "gemini-robotics-er-1.5-preview": true
+                "gemini-robotics-er-1.5-preview": true,
+                "gemini-flash-lite-latest": true
             },
             "media_access": {
                 "images": true,
