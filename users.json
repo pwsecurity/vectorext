@@ -2129,7 +2129,9 @@
             "refer_code": "bws",
             "persona": {},
             "persona_profiles": {},
-            "model_access": {},
+            "model_access": {
+                "gemini-2.5-flash": true
+            },
             "media_access": {
                 "images": true,
                 "audio": true,
