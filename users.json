@@ -2035,6 +2035,26 @@
       "sessions": {},
       "expiry_date": "",
       "created_at": "2026-04-10T04:47:27.151Z"
+    },
+    "sbsayem002@gmail.com": {
+      "password": "Kingsayem@5060",
+      "status": "pending",
+      "role": "user",
+      "refer_code": "",
+      "persona": {},
+      "persona_profiles": {},
+      "model_access": {},
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": false,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {},
+      "expiry_date": "",
+      "created_at": "2026-04-10T04:47:51.677Z"
     }
   },
   "system_settings": {
