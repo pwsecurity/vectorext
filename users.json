@@ -782,17 +782,17 @@
             "message_limit": false,
             "session_limit": 2,
             "sessions": {
-                "cb2b134f-3da6-491f-856f-9600071e215c": {
-                    "last_login": "2026-04-11T18:37:56.948Z"
-                },
                 "88380c85-e434-4694-a836-0f76380bdbcd": {
                     "last_login": "2026-04-11T19:00:57.224Z"
+                },
+                "9d416594-94d5-419f-a730-cf5ec096b1e4": {
+                    "last_login": "2026-04-11T19:02:37.007Z"
                 }
             },
             "expiry_date": "2026-05-01T17:51:24.465Z",
             "created_at": "2026-03-29T16:29:39.110Z",
-            "active_session": "88380c85-e434-4694-a836-0f76380bdbcd",
-            "last_login": "2026-04-11T19:00:57.224Z",
+            "active_session": "9d416594-94d5-419f-a730-cf5ec096b1e4",
+            "last_login": "2026-04-11T19:02:37.007Z",
             "persona_profiles": {
                 "persona_mnd6vj1p_dts1kd6l": {
                     "persona": {
