@@ -2181,17 +2181,17 @@
             "message_limit": false,
             "session_limit": 2,
             "sessions": {
-                "03c920c2-ff76-46a9-afde-4f0114d0c51b": {
-                    "last_login": "2026-04-10T16:43:26.728Z"
-                },
                 "8abda0ad-f220-433f-abb3-304830134208": {
                     "last_login": "2026-04-11T03:59:49.602Z"
+                },
+                "6332eefd-a188-4e19-9d3b-012fe5e8944e": {
+                    "last_login": "2026-04-11T15:26:18.413Z"
                 }
             },
             "expiry_date": "2026-05-10T15:46:25.913Z",
             "created_at": "2026-04-10T15:46:01.163Z",
-            "active_session": "8abda0ad-f220-433f-abb3-304830134208",
-            "last_login": "2026-04-11T03:59:49.602Z"
+            "active_session": "6332eefd-a188-4e19-9d3b-012fe5e8944e",
+            "last_login": "2026-04-11T15:26:18.413Z"
         }
     },
     "system_settings": {
