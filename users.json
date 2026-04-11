@@ -2061,14 +2061,14 @@
         "persona_mnt2pkvr_uoxd8cf3": {
           "persona": {
             "name": "",
-            "age": "",
-            "dob": "",
-            "gender": "",
+            "age": "40",
+            "dob": "13-04-1985",
+            "gender": "MALE",
             "ethnicity": "",
             "job": "",
             "job_type": "",
             "occupation_area": "",
-            "post": "",
+            "post": "90009",
             "company_size": "",
             "company_revenue": "",
             "income": "",
@@ -2078,10 +2078,10 @@
             "decision_maker": "",
             "pets": "",
             "email": "",
-            "address": "",
-            "city": "",
-            "state": "",
-            "zip": "",
+            "address": "4781 Southside Lane",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90009",
             "marital_status": "",
             "spouse_name": "",
             "spouse_age": "",
@@ -2091,7 +2091,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-04-11T17:27:42.715Z"
+          "updated_at": "2026-04-11T17:27:57.400Z"
         }
       },
       "model_access": {
