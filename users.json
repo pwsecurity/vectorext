@@ -186,15 +186,15 @@
             "auto_pilot": true,
             "session_limit": 2,
             "sessions": {
-                "4fb2c26c-91f6-4d97-a62f-913b86e5116d": {
-                    "last_login": "2026-04-08T20:06:47.352Z"
-                },
                 "60de5120-6fd8-4a5f-b271-51cecb57a254": {
                     "last_login": "2026-04-10T04:54:06.189Z"
+                },
+                "db673a5a-c190-4a34-af76-e1ef88a2aecf": {
+                    "last_login": "2026-04-11T10:04:38.024Z"
                 }
             },
-            "active_session": "60de5120-6fd8-4a5f-b271-51cecb57a254",
-            "last_login": "2026-04-10T04:54:06.189Z",
+            "active_session": "db673a5a-c190-4a34-af76-e1ef88a2aecf",
+            "last_login": "2026-04-11T10:04:38.024Z",
             "persona_profiles": {
                 "persona_mnc1xmqd_afea7lt4": {
                     "persona": {
