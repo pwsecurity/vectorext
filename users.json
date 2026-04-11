@@ -968,6 +968,41 @@
             "additional_info": ""
           },
           "updated_at": "2026-04-11T19:34:46.973Z"
+        },
+        "persona_mnuogf6c_t0pia8j6": {
+          "persona": {
+            "name": "",
+            "age": "",
+            "dob": "",
+            "gender": "",
+            "ethnicity": "",
+            "job": "",
+            "job_type": "",
+            "occupation_area": "",
+            "post": "",
+            "company_size": "",
+            "company_revenue": "",
+            "income": "",
+            "assets": "",
+            "education": "",
+            "house": "",
+            "decision_maker": "",
+            "pets": "",
+            "email": "",
+            "address": "",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60636",
+            "marital_status": "",
+            "spouse_name": "",
+            "spouse_age": "",
+            "children": "",
+            "child1": "",
+            "child2": "",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-04-11T19:45:52.020Z"
         }
       }
     },
