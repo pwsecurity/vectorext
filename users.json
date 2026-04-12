@@ -2355,7 +2355,7 @@
       },
       "auto_pilot": true,
       "message_limit": false,
-      "session_limit": 2,
+      "session_limit": 8,
       "sessions": {
         "e563cd1d-e89f-4789-9844-bc0b3da5714e": {
           "last_login": "2026-04-12T05:08:53.939Z"
