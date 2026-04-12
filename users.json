@@ -2320,9 +2320,15 @@
             "auto_pilot": true,
             "message_limit": false,
             "session_limit": 2,
-            "sessions": {},
+            "sessions": {
+                "e563cd1d-e89f-4789-9844-bc0b3da5714e": {
+                    "last_login": "2026-04-12T05:08:53.939Z"
+                }
+            },
             "expiry_date": "2026-05-12T05:08:37.496Z",
-            "created_at": "2026-04-12T05:07:54.638Z"
+            "created_at": "2026-04-12T05:07:54.638Z",
+            "active_session": "e563cd1d-e89f-4789-9844-bc0b3da5714e",
+            "last_login": "2026-04-12T05:08:53.939Z"
         }
     },
     "system_settings": {
