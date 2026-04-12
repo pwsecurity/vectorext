@@ -2201,7 +2201,7 @@
         "persona_mnvr45oc_ufpr9vz3": {
           "persona": {
             "name": "",
-            "age": "",
+            "age": "40",
             "dob": "13-06-1985",
             "gender": "MALE",
             "ethnicity": "",
@@ -2231,7 +2231,7 @@
             "child_interest": "",
             "additional_info": ""
           },
-          "updated_at": "2026-04-12T13:48:37.961Z"
+          "updated_at": "2026-04-12T13:48:49.074Z"
         }
       },
       "model_access": {
