@@ -2394,12 +2394,15 @@
             "sessions": {
                 "c804bac7-d030-4ac7-afdc-8754deddfc20": {
                     "last_login": "2026-04-12T06:27:02.917Z"
+                },
+                "7ebdbfcb-6189-4560-aa41-dbdbde4a8475": {
+                    "last_login": "2026-04-12T16:52:02.012Z"
                 }
             },
             "expiry_date": "2026-05-12T06:27:07.494Z",
             "created_at": "2026-04-12T06:22:22.810Z",
-            "active_session": "c804bac7-d030-4ac7-afdc-8754deddfc20",
-            "last_login": "2026-04-12T06:27:02.917Z"
+            "active_session": "7ebdbfcb-6189-4560-aa41-dbdbde4a8475",
+            "last_login": "2026-04-12T16:52:02.012Z"
         }
     },
     "system_settings": {
