@@ -2319,7 +2319,7 @@
             },
             "auto_pilot": true,
             "message_limit": false,
-            "session_limit": 2,
+            "session_limit": 6,
             "sessions": {
                 "c804bac7-d030-4ac7-afdc-8754deddfc20": {
                     "last_login": "2026-04-12T06:27:02.917Z"
