@@ -2479,6 +2479,41 @@
             "additional_info": "Children 3: Mildred R. Mann,  Boy: 15 feb , 2024, 2 Years Old"
           },
           "updated_at": "2026-04-13T16:52:25.203Z"
+        },
+        "persona_mnxfil3w_q7ex9j4b": {
+          "persona": {
+            "name": "Jack MacAllister",
+            "age": "39",
+            "dob": "10 February 1987",
+            "gender": "Male",
+            "ethnicity": "White",
+            "job": "Yes",
+            "job_type": "Full-Time",
+            "occupation_area": "Banking/Finance",
+            "post": "Director",
+            "company_size": "500-1000 person",
+            "company_revenue": "50-100M",
+            "income": "150000-200000",
+            "assets": "700000",
+            "education": "Masters OR (professional, Post Graduate)",
+            "house": "Own family house",
+            "decision_maker": "Myself (all section)",
+            "pets": "Cat and dog",
+            "email": "jackmclstr@gmail.com",
+            "address": "525 White Chapel Cir Charleston , SC 29412",
+            "city": "Charleston",
+            "state": "South Carolina",
+            "zip": "29412",
+            "marital_status": "married",
+            "spouse_name": "Lura ",
+            "spouse_age": "35",
+            "children": "2",
+            "child1": "Roberto G. Waldrop, Boy: 25 Jan, 2011, 16 Years old",
+            "child2": "Tod J. Parker, Boy: 10 Feb , 2016, 10  Years old",
+            "child_interest": "",
+            "additional_info": ""
+          },
+          "updated_at": "2026-04-13T16:57:11.707Z"
         }
       },
       "model_access": {
