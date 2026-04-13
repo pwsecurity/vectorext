@@ -2572,7 +2572,7 @@
             "company_revenue": "$600M",
             "income": "144000",
             "assets": "400000",
-            "education": "Bachelor’s or Master’s in Computer Science / Business IT",
+            "education": "Bachelorâs or Masterâs in Computer Science / Business IT",
             "house": "Owned (family home)",
             "decision_maker": "Yes",
             "pets": "2 dog, and 2 cat",
@@ -2617,6 +2617,26 @@
       "created_at": "2026-04-13T16:13:06.857Z",
       "active_session": "e8ecc271-3142-4740-8ee3-1dfb6b2491bf",
       "last_login": "2026-04-13T16:21:12.951Z"
+    },
+    "shakib21282918@gmail.com": {
+      "password": "shakib@143",
+      "status": "pending",
+      "role": "user",
+      "refer_code": "",
+      "persona": {},
+      "persona_profiles": {},
+      "model_access": {},
+      "media_access": {
+        "images": true,
+        "audio": true,
+        "files": true
+      },
+      "auto_pilot": false,
+      "message_limit": false,
+      "session_limit": 2,
+      "sessions": {},
+      "expiry_date": "",
+      "created_at": "2026-04-13T18:48:28.389Z"
     }
   },
   "system_settings": {
