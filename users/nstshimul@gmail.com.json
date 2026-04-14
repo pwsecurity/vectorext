@@ -1,9 +1,6 @@
 {
     "email": "nstshimul@gmail.com",
     "sessions": {
-        "2b4b1aba-5faf-4478-85bd-dbc4be2bbb9d": {
-            "last_login": "2026-03-30T16:49:02.059Z"
-        },
         "b07e9225-58ea-49a0-9a5c-36e6fde5bce5": {
             "last_login": "2026-03-30T17:04:17.978Z"
         },
@@ -30,8 +27,11 @@
         },
         "86f13827-242a-417e-bacc-3007f709a680": {
             "last_login": "2026-04-14T18:57:29.058Z"
+        },
+        "6e5961e0-2ce9-4c80-a020-b804a8029ecb": {
+            "last_login": "2026-04-14T19:09:36.849Z"
         }
     },
-    "active_session": "86f13827-242a-417e-bacc-3007f709a680",
-    "last_login": "2026-04-14T18:57:29.058Z"
+    "active_session": "6e5961e0-2ce9-4c80-a020-b804a8029ecb",
+    "last_login": "2026-04-14T19:09:36.849Z"
 }
