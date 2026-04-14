@@ -282,6 +282,16 @@
       "session_limit": 2,
       "expiry_date": "",
       "created_at": "2026-04-14T18:13:11.187Z"
+    },
+    "raihann": {
+      "password": "raihann",
+      "status": "pending",
+      "role": "user",
+      "refer_code": "",
+      "user_file": "users/raihann.json",
+      "session_limit": 2,
+      "expiry_date": "",
+      "created_at": "2026-04-14T18:23:35.635Z"
     }
   },
   "system_settings": {
