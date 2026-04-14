@@ -50,10 +50,13 @@
             "sessions": {
                 "fde2b429-b7b7-45ad-85cf-105a24aadbfa": {
                     "last_login": "2026-04-14T17:46:13.212Z"
+                },
+                "9ecd6f7e-f1d9-4787-83fc-2abc7df92ae9": {
+                    "last_login": "2026-04-14T17:53:14.806Z"
                 }
             },
-            "active_session": "fde2b429-b7b7-45ad-85cf-105a24aadbfa",
-            "last_login": "2026-04-14T17:46:13.212Z"
+            "active_session": "9ecd6f7e-f1d9-4787-83fc-2abc7df92ae9",
+            "last_login": "2026-04-14T17:53:14.806Z"
         },
         "nstshimul@gmail.com": {
             "password": "shimul",
