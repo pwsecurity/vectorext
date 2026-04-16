@@ -1,10 +1,13 @@
 {
-  "email": "tuhin1",
-  "sessions": {
-    "32e2eaf8-8125-4fb6-8acd-a8af1357d83c": {
-      "last_login": "2026-04-13T19:33:26.169Z"
-    }
-  },
-  "active_session": "32e2eaf8-8125-4fb6-8acd-a8af1357d83c",
-  "last_login": "2026-04-13T19:33:26.169Z"
+    "email": "tuhin1",
+    "sessions": {
+        "32e2eaf8-8125-4fb6-8acd-a8af1357d83c": {
+            "last_login": "2026-04-13T19:33:26.169Z"
+        },
+        "da703d4c-4242-456e-819b-ce8376bc0939": {
+            "last_login": "2026-04-16T16:00:55.682Z"
+        }
+    },
+    "active_session": "da703d4c-4242-456e-819b-ce8376bc0939",
+    "last_login": "2026-04-16T16:00:55.682Z"
 }
