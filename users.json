@@ -28,16 +28,6 @@
             "active_session": "f9907ff9-66b4-4665-b0cc-3109a23d6048",
             "last_login": "2026-04-15T14:03:18.487Z"
         },
-        "@alam": {
-            "password": "112233",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "bws",
-            "session_limit": 2,
-            "expiry_date": "2026-06-27T16:01:09.919Z",
-            "created_at": "2026-03-29T15:59:51.560Z",
-            "user_file": "users/@alam.json"
-        },
         "@nahid": {
             "password": "112233",
             "status": "approved",
