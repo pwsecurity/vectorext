@@ -1,13 +1,13 @@
 {
     "email": "partho.zero@gmail.com",
     "sessions": {
-        "6332eefd-a188-4e19-9d3b-012fe5e8944e": {
-            "last_login": "2026-04-11T15:26:18.413Z"
-        },
         "a7f28de6-d743-4c80-8d72-c1084e01fc09": {
             "last_login": "2026-04-14T11:47:11.988Z"
+        },
+        "2e08f14a-1fbe-461f-9575-05c7a6352558": {
+            "last_login": "2026-04-17T08:23:24.838Z"
         }
     },
-    "active_session": "a7f28de6-d743-4c80-8d72-c1084e01fc09",
-    "last_login": "2026-04-14T11:47:11.988Z"
+    "active_session": "2e08f14a-1fbe-461f-9575-05c7a6352558",
+    "last_login": "2026-04-17T08:23:24.838Z"
 }
