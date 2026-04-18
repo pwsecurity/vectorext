@@ -1,13 +1,13 @@
 {
     "email": "rids3d@gmail.com",
     "sessions": {
-        "00f625db-94dc-4929-b3c1-a8537ea40578": {
-            "last_login": "2026-04-16T16:16:28.903Z"
-        },
         "5a43805d-dc58-4bac-a31e-d34640c45556": {
             "last_login": "2026-04-17T02:46:45.236Z"
+        },
+        "9c81966b-03c0-4ae3-96e6-94b197e53a11": {
+            "last_login": "2026-04-18T08:33:21.367Z"
         }
     },
-    "active_session": "5a43805d-dc58-4bac-a31e-d34640c45556",
-    "last_login": "2026-04-17T02:46:45.236Z"
+    "active_session": "9c81966b-03c0-4ae3-96e6-94b197e53a11",
+    "last_login": "2026-04-18T08:33:21.367Z"
 }
