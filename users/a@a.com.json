@@ -1,13 +1,13 @@
 {
     "email": "a@a.com",
     "sessions": {
-        "a838bf85-5851-46ab-8e61-80f41d7c2c8c": {
-            "last_login": "2026-04-19T12:48:39.759Z"
-        },
         "8e9cf20f-7343-4e3d-8c7b-bf19e667f2dc": {
             "last_login": "2026-04-20T15:19:22.346Z"
+        },
+        "1496efb4-fc21-4f68-9c1d-97afa84fa99b": {
+            "last_login": "2026-04-20T16:36:23.504Z"
         }
     },
-    "active_session": "8e9cf20f-7343-4e3d-8c7b-bf19e667f2dc",
-    "last_login": "2026-04-20T15:19:22.346Z"
+    "active_session": "1496efb4-fc21-4f68-9c1d-97afa84fa99b",
+    "last_login": "2026-04-20T16:36:23.504Z"
 }
