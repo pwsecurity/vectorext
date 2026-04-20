@@ -6,11 +6,8 @@
         },
         "fe04081e-35a6-4603-ad8b-0fbaa3c9afab": {
             "last_login": "2026-04-02T17:04:51.251Z"
-        },
-        "b08f2531-c401-41ba-9154-16dc0a84f0e2": {
-            "last_login": "2026-04-18T20:11:17.751Z"
         }
     },
-    "active_session": "b08f2531-c401-41ba-9154-16dc0a84f0e2",
-    "last_login": "2026-04-18T20:11:17.751Z"
+    "active_session": "fe04081e-35a6-4603-ad8b-0fbaa3c9afab",
+    "last_login": "2026-04-02T17:04:51.251Z"
 }
