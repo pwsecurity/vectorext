@@ -1,3 +1,10 @@
 {
-    "email": "naim"
+    "email": "naim",
+    "sessions": {
+        "22499f7b-1d2f-4b5c-bdc5-2e4bc0783c1a": {
+            "last_login": "2026-04-21T16:53:43.481Z"
+        }
+    },
+    "active_session": "22499f7b-1d2f-4b5c-bdc5-2e4bc0783c1a",
+    "last_login": "2026-04-21T16:53:43.481Z"
 }
