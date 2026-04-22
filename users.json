@@ -140,15 +140,15 @@
             "created_at": "2026-03-30T18:17:39.116Z",
             "user_file": "users/farhan2.json",
             "sessions": {
-                "c53111e6-c019-4cf4-b557-ee7d7b9c49be": {
-                    "last_login": "2026-04-14T16:57:08.898Z"
-                },
                 "ef7be5f4-ced4-4467-8387-6091f8cf1a64": {
                     "last_login": "2026-04-14T19:08:01.951Z"
+                },
+                "fa44f6e2-d151-47b3-98c5-cdd247c27ecb": {
+                    "last_login": "2026-04-22T21:57:55.522Z"
                 }
             },
-            "active_session": "ef7be5f4-ced4-4467-8387-6091f8cf1a64",
-            "last_login": "2026-04-14T19:08:01.951Z"
+            "active_session": "fa44f6e2-d151-47b3-98c5-cdd247c27ecb",
+            "last_login": "2026-04-22T21:57:55.522Z"
         },
         "shahed": {
             "password": "shahed@1234",
