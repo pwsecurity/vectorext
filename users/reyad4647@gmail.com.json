@@ -1,5 +1,10 @@
 {
     "email": "reyad4647@gmail.com",
-    "sessions": {},
-    "active_session": ""
+    "sessions": {
+        "43e1f05a-1ba2-4065-b977-41a4ebd7cde4": {
+            "last_login": "2026-04-23T23:52:32.549Z"
+        }
+    },
+    "active_session": "43e1f05a-1ba2-4065-b977-41a4ebd7cde4",
+    "last_login": "2026-04-23T23:52:32.549Z"
 }
