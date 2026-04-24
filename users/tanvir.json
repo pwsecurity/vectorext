@@ -3,8 +3,11 @@
     "sessions": {
         "162c05d1-0c44-43b5-a5ae-4db8428cfe3e": {
             "last_login": "2026-04-24T08:51:01.364Z"
+        },
+        "f7caaec3-aa14-4f2a-9989-a04e3ea2d5e9": {
+            "last_login": "2026-04-24T17:54:13.877Z"
         }
     },
-    "active_session": "162c05d1-0c44-43b5-a5ae-4db8428cfe3e",
-    "last_login": "2026-04-24T08:51:01.364Z"
+    "active_session": "f7caaec3-aa14-4f2a-9989-a04e3ea2d5e9",
+    "last_login": "2026-04-24T17:54:13.877Z"
 }
