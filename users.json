@@ -38,15 +38,15 @@
             "created_at": "2026-03-29T16:29:39.110Z",
             "user_file": "users/farhan1.json",
             "sessions": {
-                "b1eab04f-d1c2-41ca-a322-8569eb4e6792": {
-                    "last_login": "2026-04-17T17:45:52.257Z"
-                },
                 "e887a797-e957-4761-82d7-82ad16aec055": {
                     "last_login": "2026-04-22T19:36:57.810Z"
+                },
+                "6390a539-4684-4c16-ab23-07977961189f": {
+                    "last_login": "2026-04-24T17:55:04.902Z"
                 }
             },
-            "active_session": "e887a797-e957-4761-82d7-82ad16aec055",
-            "last_login": "2026-04-22T19:36:57.810Z",
+            "active_session": "6390a539-4684-4c16-ab23-07977961189f",
+            "last_login": "2026-04-24T17:55:04.902Z",
             "persona_profiles": {
                 "persona_mnuogf6c_t0pia8j6": {
                     "persona": {
