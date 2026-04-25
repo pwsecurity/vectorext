@@ -1,470 +1,470 @@
 {
-  "users": {
-    "rids3d@gmail.com": {
-      "password": "Trevuj123@",
-      "status": "approved",
-      "role": "admin",
-      "expiry_date": "2035-12-19T02:26:27.971267",
-      "session_limit": 2,
-      "user_file": "users/rids3d@gmail.com.json"
-    },
-    "a@a.com": {
-      "password": "12345",
-      "status": "approved",
-      "role": "user",
-      "expiry_date": "2030-01-26T05:21:38.850339",
-      "created_at": "2025-12-27T05:21:22.803888",
-      "session_limit": 20,
-      "refer_code": "bws",
-      "user_file": "users/a@a.com.json",
-      "sessions": {
-        "818c0d88-16b9-49ca-b4fd-4f94d21ee103": {
-          "last_login": "2026-04-15T11:35:21.679Z"
+    "users": {
+        "rids3d@gmail.com": {
+            "password": "Trevuj123@",
+            "status": "approved",
+            "role": "admin",
+            "expiry_date": "2035-12-19T02:26:27.971267",
+            "session_limit": 2,
+            "user_file": "users/rids3d@gmail.com.json"
         },
-        "f9907ff9-66b4-4665-b0cc-3109a23d6048": {
-          "last_login": "2026-04-15T14:03:18.487Z"
-        }
-      },
-      "active_session": "f9907ff9-66b4-4665-b0cc-3109a23d6048",
-      "last_login": "2026-04-15T14:03:18.487Z"
-    },
-    "farhan1": {
-      "password": "farhan",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "farhan",
-      "session_limit": 2,
-      "expiry_date": "2026-05-01T17:51:24.465Z",
-      "created_at": "2026-03-29T16:29:39.110Z",
-      "user_file": "users/farhan1.json",
-      "sessions": {
-        "e887a797-e957-4761-82d7-82ad16aec055": {
-          "last_login": "2026-04-22T19:36:57.810Z"
+        "a@a.com": {
+            "password": "12345",
+            "status": "approved",
+            "role": "user",
+            "expiry_date": "2030-01-26T05:21:38.850339",
+            "created_at": "2025-12-27T05:21:22.803888",
+            "session_limit": 20,
+            "refer_code": "bws",
+            "user_file": "users/a@a.com.json",
+            "sessions": {
+                "818c0d88-16b9-49ca-b4fd-4f94d21ee103": {
+                    "last_login": "2026-04-15T11:35:21.679Z"
+                },
+                "f9907ff9-66b4-4665-b0cc-3109a23d6048": {
+                    "last_login": "2026-04-15T14:03:18.487Z"
+                }
+            },
+            "active_session": "f9907ff9-66b4-4665-b0cc-3109a23d6048",
+            "last_login": "2026-04-15T14:03:18.487Z"
         },
-        "6390a539-4684-4c16-ab23-07977961189f": {
-          "last_login": "2026-04-24T17:55:04.902Z"
-        }
-      },
-      "active_session": "6390a539-4684-4c16-ab23-07977961189f",
-      "last_login": "2026-04-24T17:55:04.902Z",
-      "persona_profiles": {
-        "persona_mnuogf6c_t0pia8j6": {
-          "persona": {
-            "name": "",
-            "age": "47",
-            "dob": "May 20 , 1978",
-            "gender": "Male",
-            "ethnicity": "",
-            "job": "",
-            "job_type": "",
-            "occupation_area": "",
-            "post": "",
-            "company_size": "",
-            "company_revenue": "",
-            "income": "",
-            "assets": "",
-            "education": "",
-            "house": "",
-            "decision_maker": "",
-            "pets": "",
-            "email": "",
-            "address": "",
-            "city": "Chicago",
-            "state": "Illionois",
-            "zip": "60636",
-            "marital_status": "",
-            "spouse_name": "",
-            "spouse_age": "",
-            "children": "",
-            "child1": "",
-            "child2": "",
-            "child_interest": "",
-            "additional_info": "I hate pork. It is prohubated by my religion muslim"
-          },
-          "updated_at": "2026-04-25T13:45:05.282Z"
+        "farhan1": {
+            "password": "farhan",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "farhan",
+            "session_limit": 2,
+            "expiry_date": "2026-05-01T17:51:24.465Z",
+            "created_at": "2026-03-29T16:29:39.110Z",
+            "user_file": "users/farhan1.json",
+            "sessions": {
+                "6390a539-4684-4c16-ab23-07977961189f": {
+                    "last_login": "2026-04-24T17:55:04.902Z"
+                },
+                "0731ccef-73e0-4047-a00c-0335fa9eee61": {
+                    "last_login": "2026-04-25T21:53:09.439Z"
+                }
+            },
+            "active_session": "0731ccef-73e0-4047-a00c-0335fa9eee61",
+            "last_login": "2026-04-25T21:53:09.439Z",
+            "persona_profiles": {
+                "persona_mnuogf6c_t0pia8j6": {
+                    "persona": {
+                        "name": "",
+                        "age": "47",
+                        "dob": "May 20 , 1978",
+                        "gender": "Male",
+                        "ethnicity": "",
+                        "job": "",
+                        "job_type": "",
+                        "occupation_area": "",
+                        "post": "",
+                        "company_size": "",
+                        "company_revenue": "",
+                        "income": "",
+                        "assets": "",
+                        "education": "",
+                        "house": "",
+                        "decision_maker": "",
+                        "pets": "",
+                        "email": "",
+                        "address": "",
+                        "city": "Chicago",
+                        "state": "Illionois",
+                        "zip": "60636",
+                        "marital_status": "",
+                        "spouse_name": "",
+                        "spouse_age": "",
+                        "children": "",
+                        "child1": "",
+                        "child2": "",
+                        "child_interest": "",
+                        "additional_info": "I hate pork. It is prohubated by my religion muslim"
+                    },
+                    "updated_at": "2026-04-25T13:45:05.282Z"
+                },
+                "persona_mnt29tgy_nxjisjo7": {
+                    "persona": {
+                        "name": "",
+                        "age": "45",
+                        "dob": "june 10,1980",
+                        "gender": "male",
+                        "ethnicity": "",
+                        "job": "",
+                        "job_type": "",
+                        "occupation_area": "",
+                        "post": "",
+                        "company_size": "",
+                        "company_revenue": "",
+                        "income": "",
+                        "assets": "",
+                        "education": "",
+                        "house": "",
+                        "decision_maker": "",
+                        "pets": "",
+                        "email": "",
+                        "address": "13041 NW 17th Ct",
+                        "city": "Miami",
+                        "state": "Florida",
+                        "zip": "33167",
+                        "marital_status": "",
+                        "spouse_name": "",
+                        "spouse_age": "",
+                        "children": "",
+                        "child1": "",
+                        "child2": "",
+                        "child_interest": "",
+                        "additional_info": "Urban I live in and republican"
+                    },
+                    "updated_at": "2026-04-17T20:38:50.407Z"
+                }
+            }
         },
-        "persona_mnt29tgy_nxjisjo7": {
-          "persona": {
-            "name": "",
-            "age": "45",
-            "dob": "june 10,1980",
-            "gender": "male",
-            "ethnicity": "",
-            "job": "",
-            "job_type": "",
-            "occupation_area": "",
-            "post": "",
-            "company_size": "",
-            "company_revenue": "",
-            "income": "",
-            "assets": "",
-            "education": "",
-            "house": "",
-            "decision_maker": "",
-            "pets": "",
-            "email": "",
-            "address": "13041 NW 17th Ct",
-            "city": "Miami",
-            "state": "Florida",
-            "zip": "33167",
-            "marital_status": "",
-            "spouse_name": "",
-            "spouse_age": "",
-            "children": "",
-            "child1": "",
-            "child2": "",
-            "child_interest": "",
-            "additional_info": "Urban I live in and republican"
-          },
-          "updated_at": "2026-04-17T20:38:50.407Z"
-        }
-      }
-    },
-    "nstshimul@gmail.com": {
-      "password": "shimul",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "shimul",
-      "session_limit": 10,
-      "expiry_date": "2026-04-29T08:46:42.533Z",
-      "created_at": "2026-03-30T15:06:24.508Z",
-      "user_file": "users/nstshimul@gmail.com.json"
-    },
-    "farhan2": {
-      "password": "farhan",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "farhan",
-      "session_limit": 2,
-      "expiry_date": "2026-05-01T17:51:15.140Z",
-      "created_at": "2026-03-30T18:17:39.116Z",
-      "user_file": "users/farhan2.json",
-      "sessions": {
-        "ef7be5f4-ced4-4467-8387-6091f8cf1a64": {
-          "last_login": "2026-04-14T19:08:01.951Z"
+        "nstshimul@gmail.com": {
+            "password": "shimul",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "shimul",
+            "session_limit": 10,
+            "expiry_date": "2026-04-29T08:46:42.533Z",
+            "created_at": "2026-03-30T15:06:24.508Z",
+            "user_file": "users/nstshimul@gmail.com.json"
         },
-        "fa44f6e2-d151-47b3-98c5-cdd247c27ecb": {
-          "last_login": "2026-04-22T21:57:55.522Z"
+        "farhan2": {
+            "password": "farhan",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "farhan",
+            "session_limit": 2,
+            "expiry_date": "2026-05-01T17:51:15.140Z",
+            "created_at": "2026-03-30T18:17:39.116Z",
+            "user_file": "users/farhan2.json",
+            "sessions": {
+                "ef7be5f4-ced4-4467-8387-6091f8cf1a64": {
+                    "last_login": "2026-04-14T19:08:01.951Z"
+                },
+                "fa44f6e2-d151-47b3-98c5-cdd247c27ecb": {
+                    "last_login": "2026-04-22T21:57:55.522Z"
+                }
+            },
+            "active_session": "fa44f6e2-d151-47b3-98c5-cdd247c27ecb",
+            "last_login": "2026-04-22T21:57:55.522Z"
+        },
+        "shahed": {
+            "password": "shahed@1234",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "session_limit": 6,
+            "expiry_date": "2026-05-01T17:39:15.587Z",
+            "created_at": "2026-04-01T16:39:46.589Z",
+            "user_file": "users/shahed.json"
+        },
+        "masterpro": {
+            "password": "12345",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "farhan",
+            "session_limit": 2,
+            "expiry_date": "2026-05-02T00:07:21.555Z",
+            "created_at": "2026-04-01T20:54:26.243Z",
+            "user_file": "users/masterpro.json"
+        },
+        "faria": {
+            "password": "22222",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "farhan",
+            "session_limit": 2,
+            "expiry_date": "2026-05-05T08:43:42.049Z",
+            "created_at": "2026-04-04T18:50:04.087Z",
+            "user_file": "users/faria.json"
+        },
+        "sbsayem001@gmail.com": {
+            "password": "Kingsayem@5060",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "session_limit": 2,
+            "expiry_date": "2026-05-10T04:48:48.983Z",
+            "created_at": "2026-04-10T04:47:27.151Z",
+            "user_file": "users/sbsayem001@gmail.com.json"
+        },
+        "partho.zero@gmail.com": {
+            "password": "Partho@007",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "session_limit": 2,
+            "expiry_date": "2026-05-10T15:46:25.913Z",
+            "created_at": "2026-04-10T15:46:01.163Z",
+            "user_file": "users/partho.zero@gmail.com.json"
+        },
+        "jackmclstr@gmail.com": {
+            "password": "jackmclstr@gmail.com",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "session_limit": 6,
+            "expiry_date": "2026-05-12T06:27:07.494Z",
+            "created_at": "2026-04-12T06:22:22.810Z",
+            "user_file": "users/jackmclstr@gmail.com.json"
+        },
+        "shakib2128@gmail.com": {
+            "password": "shakib@143",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "session_limit": 5,
+            "expiry_date": "2026-05-13T16:13:34.765Z",
+            "created_at": "2026-04-13T16:13:06.857Z",
+            "user_file": "users/shakib2128@gmail.com.json",
+            "sessions": {},
+            "active_session": "",
+            "last_login": "2026-04-14T16:15:16.890Z",
+            "persona_profiles": {
+                "persona_mnxnp7lt_fxyf605v": {
+                    "persona": {
+                        "name": "",
+                        "age": "",
+                        "dob": "",
+                        "gender": "",
+                        "ethnicity": "",
+                        "job": "",
+                        "job_type": "",
+                        "occupation_area": "",
+                        "post": "",
+                        "company_size": "",
+                        "company_revenue": "",
+                        "income": "",
+                        "assets": "",
+                        "education": "",
+                        "house": "",
+                        "decision_maker": "",
+                        "pets": "",
+                        "email": "",
+                        "address": "",
+                        "city": "",
+                        "state": "",
+                        "zip": "",
+                        "marital_status": "",
+                        "spouse_name": "",
+                        "spouse_age": "",
+                        "children": "",
+                        "child1": "",
+                        "child2": "",
+                        "child_interest": "",
+                        "additional_info": ""
+                    },
+                    "updated_at": "2026-04-14T17:20:18.287Z"
+                }
+            }
+        },
+        "imran": {
+            "password": "password143",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "user_file": "users/imran.json",
+            "session_limit": 10,
+            "expiry_date": "2026-06-13T17:15:37.061Z",
+            "created_at": "2026-04-14T17:15:05.406Z"
+        },
+        "tanvir": {
+            "password": "12345",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "user_file": "users/tanvir.json",
+            "session_limit": 3,
+            "expiry_date": "2026-05-20T16:51:25.407Z",
+            "created_at": "2026-04-20T16:50:39.793Z"
+        },
+        "naim": {
+            "password": "12345",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "user_file": "users/naim.json",
+            "session_limit": 2,
+            "expiry_date": "2026-05-21T16:53:21.108Z",
+            "created_at": "2026-04-21T16:52:44.398Z"
+        },
+        "reyad4647@gmail.com": {
+            "password": "Reyad4647@",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "",
+            "user_file": "users/reyad4647@gmail.com.json",
+            "session_limit": 1,
+            "expiry_date": "2026-05-21T17:40:45.227Z",
+            "created_at": "2026-04-21T17:38:06.913Z"
+        },
+        "@alam": {
+            "password": "112233",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "persona": {},
+            "persona_profiles": {
+                "persona_mnp0nq77_7c3rs58v": {
+                    "persona": {
+                        "name": "Ashraf Ud Dowla",
+                        "age": "40",
+                        "dob": "February 26, 1985",
+                        "gender": "Male",
+                        "ethnicity": "White (Not Hispanic/Latino)",
+                        "job": "IT Manager",
+                        "job_type": "Full time (30+HR)",
+                        "occupation_area": "Information and Technology / Software",
+                        "post": "Higher Managerial / Director",
+                        "company_size": "500-999 employees",
+                        "company_revenue": "50M-100M",
+                        "income": "120,000 USD (Before Tax)",
+                        "assets": "5 Million USD (Investable)",
+                        "education": "PhD / Doctorate",
+                        "house": "Own (Single Family Home)",
+                        "decision_maker": "Myself (All sections)",
+                        "pets": "Cat & Dog",
+                        "email": "",
+                        "address": "7 E 75th St",
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10014",
+                        "marital_status": "Married",
+                        "spouse_name": "Sara",
+                        "spouse_age": "33",
+                        "children": "2",
+                        "child1": "14 year old boy James Fisher (18 Feb 2011)",
+                        "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
+                        "child_interest": "Yes (Always)",
+                        "additional_info": ""
+                    },
+                    "updated_at": "2026-04-23T13:35:48.256Z"
+                }
+            },
+            "model_access": {},
+            "media_access": {
+                "images": true,
+                "audio": true,
+                "files": true
+            },
+            "auto_pilot": false,
+            "message_limit": false,
+            "session_limit": 2,
+            "sessions": {},
+            "expiry_date": "2026-06-21T18:28:36.445Z",
+            "created_at": "2026-04-22T17:55:09.531Z",
+            "user_file": "users/@alam.json"
+        },
+        "@nahid": {
+            "password": "112233",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "persona": {},
+            "persona_profiles": {},
+            "model_access": {},
+            "media_access": {
+                "images": true,
+                "audio": true,
+                "files": true
+            },
+            "auto_pilot": false,
+            "message_limit": false,
+            "session_limit": 2,
+            "sessions": {},
+            "expiry_date": "2026-06-21T18:32:50.652Z",
+            "created_at": "2026-04-22T17:55:30.478Z",
+            "user_file": "users/@nahid.json"
+        },
+        "@shovon": {
+            "password": "112233",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "bws",
+            "persona": {},
+            "persona_profiles": {},
+            "model_access": {},
+            "media_access": {
+                "images": true,
+                "audio": true,
+                "files": true
+            },
+            "auto_pilot": false,
+            "message_limit": false,
+            "session_limit": 2,
+            "sessions": {},
+            "expiry_date": "2026-06-21T18:34:42.960Z",
+            "created_at": "2026-04-22T17:56:02.791Z",
+            "user_file": "users/@shovon.json"
         }
-      },
-      "active_session": "fa44f6e2-d151-47b3-98c5-cdd247c27ecb",
-      "last_login": "2026-04-22T21:57:55.522Z"
     },
-    "shahed": {
-      "password": "shahed@1234",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "session_limit": 6,
-      "expiry_date": "2026-05-01T17:39:15.587Z",
-      "created_at": "2026-04-01T16:39:46.589Z",
-      "user_file": "users/shahed.json"
+    "system_settings": {
+        "models_config": [
+            {
+                "id": "gemini-2.5-flash",
+                "name": "Gemini 2.5 Flash",
+                "priority": 3
+            },
+            {
+                "id": "gemini-robotics-er-1.5-preview",
+                "name": "Gemini Robotics ER",
+                "priority": 4
+            },
+            {
+                "id": "gemini-2.5-flash-lite",
+                "name": "Gemini 2.5 Flash Lite",
+                "priority": 5
+            },
+            {
+                "id": "gemini-flash-lite-latest",
+                "name": "Gemini Flash Lite Latest",
+                "priority": 6
+            },
+            {
+                "id": "gemini-3-flash-preview",
+                "name": "gemini-3",
+                "priority": 7
+            },
+            {
+                "id": "gemini-2.5-flash-preview-09-2025",
+                "name": "gemini-2.5-flash-preview-09-2025",
+                "priority": 6
+            }
+        ],
+        "models": {
+            "gemini-2.5-flash": true,
+            "gemini-robotics-er-1.5-preview": true,
+            "gemini-2.5-flash-lite": true,
+            "gemini-flash-lite-latest": true,
+            "gemini-3-flash-preview": true,
+            "gemini-2.5-flash-preview-09-2025": false
+        },
+        "extension": {
+            "version": "3.4",
+            "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
+            "filename": "vector-v3.4.crx",
+            "uploaded_at": "2025-12-29T07:06:42.715402"
+        },
+        "new_registrations": true,
+        "refer_only_mode": true,
+        "media_access": {
+            "images": true,
+            "files": true,
+            "audio": true
+        },
+        "auto_pilot": true,
+        "message_limit": false
     },
-    "masterpro": {
-      "password": "12345",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "farhan",
-      "session_limit": 2,
-      "expiry_date": "2026-05-02T00:07:21.555Z",
-      "created_at": "2026-04-01T20:54:26.243Z",
-      "user_file": "users/masterpro.json"
-    },
-    "faria": {
-      "password": "22222",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "farhan",
-      "session_limit": 2,
-      "expiry_date": "2026-05-05T08:43:42.049Z",
-      "created_at": "2026-04-04T18:50:04.087Z",
-      "user_file": "users/faria.json"
-    },
-    "sbsayem001@gmail.com": {
-      "password": "Kingsayem@5060",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "session_limit": 2,
-      "expiry_date": "2026-05-10T04:48:48.983Z",
-      "created_at": "2026-04-10T04:47:27.151Z",
-      "user_file": "users/sbsayem001@gmail.com.json"
-    },
-    "partho.zero@gmail.com": {
-      "password": "Partho@007",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "session_limit": 2,
-      "expiry_date": "2026-05-10T15:46:25.913Z",
-      "created_at": "2026-04-10T15:46:01.163Z",
-      "user_file": "users/partho.zero@gmail.com.json"
-    },
-    "jackmclstr@gmail.com": {
-      "password": "jackmclstr@gmail.com",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "session_limit": 6,
-      "expiry_date": "2026-05-12T06:27:07.494Z",
-      "created_at": "2026-04-12T06:22:22.810Z",
-      "user_file": "users/jackmclstr@gmail.com.json"
-    },
-    "shakib2128@gmail.com": {
-      "password": "shakib@143",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "session_limit": 5,
-      "expiry_date": "2026-05-13T16:13:34.765Z",
-      "created_at": "2026-04-13T16:13:06.857Z",
-      "user_file": "users/shakib2128@gmail.com.json",
-      "sessions": {},
-      "active_session": "",
-      "last_login": "2026-04-14T16:15:16.890Z",
-      "persona_profiles": {
-        "persona_mnxnp7lt_fxyf605v": {
-          "persona": {
-            "name": "",
-            "age": "",
-            "dob": "",
-            "gender": "",
-            "ethnicity": "",
-            "job": "",
-            "job_type": "",
-            "occupation_area": "",
-            "post": "",
-            "company_size": "",
-            "company_revenue": "",
-            "income": "",
-            "assets": "",
-            "education": "",
-            "house": "",
-            "decision_maker": "",
-            "pets": "",
-            "email": "",
-            "address": "",
-            "city": "",
-            "state": "",
-            "zip": "",
-            "marital_status": "",
-            "spouse_name": "",
-            "spouse_age": "",
-            "children": "",
-            "child1": "",
-            "child2": "",
-            "child_interest": "",
-            "additional_info": ""
-          },
-          "updated_at": "2026-04-14T17:20:18.287Z"
+    "refer_codes": {
+        "farhan": {
+            "created_at": "2025-12-24T16:30:47.622790",
+            "created_by": "rids3d@gmail.com"
+        },
+        "bws": {
+            "created_at": "2025-12-26T17:48:49.338132",
+            "created_by": "rids3d@gmail.com"
         }
-      }
-    },
-    "imran": {
-      "password": "password143",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "user_file": "users/imran.json",
-      "session_limit": 10,
-      "expiry_date": "2026-06-13T17:15:37.061Z",
-      "created_at": "2026-04-14T17:15:05.406Z"
-    },
-    "tanvir": {
-      "password": "12345",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "user_file": "users/tanvir.json",
-      "session_limit": 3,
-      "expiry_date": "2026-05-20T16:51:25.407Z",
-      "created_at": "2026-04-20T16:50:39.793Z"
-    },
-    "naim": {
-      "password": "12345",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "user_file": "users/naim.json",
-      "session_limit": 2,
-      "expiry_date": "2026-05-21T16:53:21.108Z",
-      "created_at": "2026-04-21T16:52:44.398Z"
-    },
-    "reyad4647@gmail.com": {
-      "password": "Reyad4647@",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "",
-      "user_file": "users/reyad4647@gmail.com.json",
-      "session_limit": 1,
-      "expiry_date": "2026-05-21T17:40:45.227Z",
-      "created_at": "2026-04-21T17:38:06.913Z"
-    },
-    "@alam": {
-      "password": "112233",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "persona": {},
-      "persona_profiles": {
-        "persona_mnp0nq77_7c3rs58v": {
-          "persona": {
-            "name": "Ashraf Ud Dowla",
-            "age": "40",
-            "dob": "February 26, 1985",
-            "gender": "Male",
-            "ethnicity": "White (Not Hispanic/Latino)",
-            "job": "IT Manager",
-            "job_type": "Full time (30+HR)",
-            "occupation_area": "Information and Technology / Software",
-            "post": "Higher Managerial / Director",
-            "company_size": "500-999 employees",
-            "company_revenue": "50M-100M",
-            "income": "120,000 USD (Before Tax)",
-            "assets": "5 Million USD (Investable)",
-            "education": "PhD / Doctorate",
-            "house": "Own (Single Family Home)",
-            "decision_maker": "Myself (All sections)",
-            "pets": "Cat & Dog",
-            "email": "",
-            "address": "7 E 75th St",
-            "city": "New York",
-            "state": "New York",
-            "zip": "10014",
-            "marital_status": "Married",
-            "spouse_name": "Sara",
-            "spouse_age": "33",
-            "children": "2",
-            "child1": "14 year old boy James Fisher (18 Feb 2011)",
-            "child2": "8 year old girl Sinthiya Fisher (07 Feb 2017)",
-            "child_interest": "Yes (Always)",
-            "additional_info": ""
-          },
-          "updated_at": "2026-04-23T13:35:48.256Z"
-        }
-      },
-      "model_access": {},
-      "media_access": {
-        "images": true,
-        "audio": true,
-        "files": true
-      },
-      "auto_pilot": false,
-      "message_limit": false,
-      "session_limit": 2,
-      "sessions": {},
-      "expiry_date": "2026-06-21T18:28:36.445Z",
-      "created_at": "2026-04-22T17:55:09.531Z",
-      "user_file": "users/@alam.json"
-    },
-    "@nahid": {
-      "password": "112233",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "persona": {},
-      "persona_profiles": {},
-      "model_access": {},
-      "media_access": {
-        "images": true,
-        "audio": true,
-        "files": true
-      },
-      "auto_pilot": false,
-      "message_limit": false,
-      "session_limit": 2,
-      "sessions": {},
-      "expiry_date": "2026-06-21T18:32:50.652Z",
-      "created_at": "2026-04-22T17:55:30.478Z",
-      "user_file": "users/@nahid.json"
-    },
-    "@shovon": {
-      "password": "112233",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "bws",
-      "persona": {},
-      "persona_profiles": {},
-      "model_access": {},
-      "media_access": {
-        "images": true,
-        "audio": true,
-        "files": true
-      },
-      "auto_pilot": false,
-      "message_limit": false,
-      "session_limit": 2,
-      "sessions": {},
-      "expiry_date": "2026-06-21T18:34:42.960Z",
-      "created_at": "2026-04-22T17:56:02.791Z",
-      "user_file": "users/@shovon.json"
     }
-  },
-  "system_settings": {
-    "models_config": [
-      {
-        "id": "gemini-2.5-flash",
-        "name": "Gemini 2.5 Flash",
-        "priority": 3
-      },
-      {
-        "id": "gemini-robotics-er-1.5-preview",
-        "name": "Gemini Robotics ER",
-        "priority": 4
-      },
-      {
-        "id": "gemini-2.5-flash-lite",
-        "name": "Gemini 2.5 Flash Lite",
-        "priority": 5
-      },
-      {
-        "id": "gemini-flash-lite-latest",
-        "name": "Gemini Flash Lite Latest",
-        "priority": 6
-      },
-      {
-        "id": "gemini-3-flash-preview",
-        "name": "gemini-3",
-        "priority": 7
-      },
-      {
-        "id": "gemini-2.5-flash-preview-09-2025",
-        "name": "gemini-2.5-flash-preview-09-2025",
-        "priority": 6
-      }
-    ],
-    "models": {
-      "gemini-2.5-flash": true,
-      "gemini-robotics-er-1.5-preview": true,
-      "gemini-2.5-flash-lite": true,
-      "gemini-flash-lite-latest": true,
-      "gemini-3-flash-preview": true,
-      "gemini-2.5-flash-preview-09-2025": false
-    },
-    "extension": {
-      "version": "3.4",
-      "extension_id": "ifdaimeploojglipojkbgmlhfgoajncj",
-      "filename": "vector-v3.4.crx",
-      "uploaded_at": "2025-12-29T07:06:42.715402"
-    },
-    "new_registrations": true,
-    "refer_only_mode": true,
-    "media_access": {
-      "images": true,
-      "files": true,
-      "audio": true
-    },
-    "auto_pilot": true,
-    "message_limit": false
-  },
-  "refer_codes": {
-    "farhan": {
-      "created_at": "2025-12-24T16:30:47.622790",
-      "created_by": "rids3d@gmail.com"
-    },
-    "bws": {
-      "created_at": "2025-12-26T17:48:49.338132",
-      "created_by": "rids3d@gmail.com"
-    }
-  }
 }
