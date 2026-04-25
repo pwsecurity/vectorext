@@ -1,9 +1,6 @@
 {
     "email": "shakib2128@gmail.com",
     "sessions": {
-        "39261c1e-1876-43ad-b9c2-25e9fbf7adee": {
-            "last_login": "2026-04-23T19:45:52.251Z"
-        },
         "b5916ae5-ffaf-4152-b912-83373f119fe1": {
             "last_login": "2026-04-23T20:26:41.897Z"
         },
@@ -15,8 +12,11 @@
         },
         "1615878b-6f48-41cc-9147-5a1acf2ff8f7": {
             "last_login": "2026-04-25T14:02:02.373Z"
+        },
+        "12024251-d9a3-468c-8d4b-11cc2ed2c257": {
+            "last_login": "2026-04-25T16:06:44.133Z"
         }
     },
-    "active_session": "1615878b-6f48-41cc-9147-5a1acf2ff8f7",
-    "last_login": "2026-04-25T14:02:02.373Z"
+    "active_session": "12024251-d9a3-468c-8d4b-11cc2ed2c257",
+    "last_login": "2026-04-25T16:06:44.133Z"
 }
