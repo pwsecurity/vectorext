@@ -373,10 +373,16 @@
             "auto_pilot": false,
             "message_limit": false,
             "session_limit": 2,
-            "sessions": {},
+            "sessions": {
+                "6f4ebf75-c5d6-4f42-a288-d10e55ca435c": {
+                    "last_login": "2026-04-26T18:44:37.029Z"
+                }
+            },
             "expiry_date": "2026-06-21T18:32:50.652Z",
             "created_at": "2026-04-22T17:55:30.478Z",
-            "user_file": "users/@nahid.json"
+            "user_file": "users/@nahid.json",
+            "active_session": "6f4ebf75-c5d6-4f42-a288-d10e55ca435c",
+            "last_login": "2026-04-26T18:44:37.029Z"
         },
         "@shovon": {
             "password": "112233",
