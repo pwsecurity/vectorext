@@ -1,16 +1,16 @@
 {
     "email": "tanvir",
     "sessions": {
-        "cea87eac-a449-49b8-bb18-db8075f11abb": {
-            "last_login": "2026-04-24T20:28:07.977Z"
-        },
         "1944ae5c-7d3f-4ad6-bce1-61740cb84c6e": {
             "last_login": "2026-04-25T15:48:12.488Z"
         },
         "90225e8f-8341-4edd-8301-b50be3a66cf5": {
             "last_login": "2026-04-27T17:34:30.550Z"
+        },
+        "e26dad6e-558d-461d-8692-029e68343505": {
+            "last_login": "2026-04-27T18:22:02.939Z"
         }
     },
-    "active_session": "90225e8f-8341-4edd-8301-b50be3a66cf5",
-    "last_login": "2026-04-27T17:34:30.550Z"
+    "active_session": "e26dad6e-558d-461d-8692-029e68343505",
+    "last_login": "2026-04-27T18:22:02.939Z"
 }
