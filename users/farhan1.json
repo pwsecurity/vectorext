@@ -1,13 +1,13 @@
 {
     "email": "farhan1",
     "sessions": {
-        "5915d30a-9f77-4f29-8e71-20c167c34d55": {
-            "last_login": "2026-04-25T21:27:23.235Z"
-        },
         "3d7fd82f-b2b4-4f3e-9ae7-9011cdbdac68": {
             "last_login": "2026-04-26T14:11:56.748Z"
+        },
+        "2b587473-3280-4e3d-a7db-fae6228acf3c": {
+            "last_login": "2026-04-27T19:13:57.996Z"
         }
     },
-    "active_session": "3d7fd82f-b2b4-4f3e-9ae7-9011cdbdac68",
-    "last_login": "2026-04-26T14:11:56.748Z"
+    "active_session": "2b587473-3280-4e3d-a7db-fae6228acf3c",
+    "last_login": "2026-04-27T19:13:57.996Z"
 }
