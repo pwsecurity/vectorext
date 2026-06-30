@@ -1,97 +1,97 @@
 {
-  "users": {
-    "a@a.com": {
-      "password": "12345",
-      "status": "approved",
-      "role": "user",
-      "refer_code": "12345",
-      "user_file": "users/a@a.com.json",
-      "session_limit": 20,
-      "expiry_date": "2026-08-24T10:17:28.730Z",
-      "created_at": "2026-06-25T10:17:05.750Z"
+    "users": {
+        "a@a.com": {
+            "password": "12345",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "12345",
+            "user_file": "users/a@a.com.json",
+            "session_limit": 20,
+            "expiry_date": "2026-08-24T10:17:28.730Z",
+            "created_at": "2026-06-25T10:17:05.750Z"
+        },
+        "farhan1": {
+            "password": "farhan1",
+            "status": "approved",
+            "role": "user",
+            "refer_code": "farhan",
+            "user_file": "users/farhan1.json",
+            "session_limit": 2,
+            "expiry_date": "",
+            "created_at": "2026-06-30T17:53:37.514Z"
+        },
+        "farhan2": {
+            "password": "farhan2",
+            "status": "pending",
+            "role": "user",
+            "refer_code": "farhan",
+            "user_file": "users/farhan2.json",
+            "session_limit": 2,
+            "expiry_date": "",
+            "created_at": "2026-06-30T17:53:50.830Z"
+        }
     },
-    "farhan1": {
-      "password": "farhan1",
-      "status": "pending",
-      "role": "user",
-      "refer_code": "farhan",
-      "user_file": "users/farhan1.json",
-      "session_limit": 2,
-      "expiry_date": "",
-      "created_at": "2026-06-30T17:53:37.514Z"
+    "system_settings": {
+        "models_config": [
+            {
+                "id": "gemini-2.5-flash",
+                "name": "Gemini 2.5 Flash",
+                "priority": 3
+            },
+            {
+                "id": "gemini-robotics-er-1.5-preview",
+                "name": "Gemini Robotics ER",
+                "priority": 4
+            },
+            {
+                "id": "gemini-2.5-flash-lite",
+                "name": "Gemini 2.5 Flash Lite",
+                "priority": 5
+            },
+            {
+                "id": "gemini-flash-lite-latest",
+                "name": "Gemini Flash Lite Latest",
+                "priority": 6
+            },
+            {
+                "id": "gemini-3-flash-preview",
+                "name": "gemini-3",
+                "priority": 7
+            },
+            {
+                "id": "gemini-2.5-flash-preview-09-2025",
+                "name": "gemini-2.5-flash-preview-09-2025",
+                "priority": 6
+            }
+        ],
+        "models": {
+            "gemini-2.5-flash": true,
+            "gemini-robotics-er-1.5-preview": true,
+            "gemini-2.5-flash-lite": true,
+            "gemini-flash-lite-latest": true,
+            "gemini-3-flash-preview": true,
+            "gemini-2.5-flash-preview-09-2025": false
+        },
+        "extension": {
+            "version": "3.4",
+            "extension_id": "ifdaaimeploojglipojkbgmlhfgoajncj",
+            "filename": "vector-v3.4.crx",
+            "uploaded_at": "2025-12-29T07:06:42.715402"
+        },
+        "new_registrations": true,
+        "refer_only_mode": true,
+        "media_access": {
+            "images": true,
+            "files": true,
+            "audio": true
+        },
+        "auto_pilot": true,
+        "message_limit": false
     },
-    "farhan2": {
-      "password": "farhan2",
-      "status": "pending",
-      "role": "user",
-      "refer_code": "farhan",
-      "user_file": "users/farhan2.json",
-      "session_limit": 2,
-      "expiry_date": "",
-      "created_at": "2026-06-30T17:53:50.830Z"
+    "refer_codes": {
+        "bws": {
+            "created_at": "2026-06-25T10:36:16.893Z",
+            "created_by": "rids3d@gmail.com"
+        }
     }
-  },
-  "system_settings": {
-    "models_config": [
-      {
-        "id": "gemini-2.5-flash",
-        "name": "Gemini 2.5 Flash",
-        "priority": 3
-      },
-      {
-        "id": "gemini-robotics-er-1.5-preview",
-        "name": "Gemini Robotics ER",
-        "priority": 4
-      },
-      {
-        "id": "gemini-2.5-flash-lite",
-        "name": "Gemini 2.5 Flash Lite",
-        "priority": 5
-      },
-      {
-        "id": "gemini-flash-lite-latest",
-        "name": "Gemini Flash Lite Latest",
-        "priority": 6
-      },
-      {
-        "id": "gemini-3-flash-preview",
-        "name": "gemini-3",
-        "priority": 7
-      },
-      {
-        "id": "gemini-2.5-flash-preview-09-2025",
-        "name": "gemini-2.5-flash-preview-09-2025",
-        "priority": 6
-      }
-    ],
-    "models": {
-      "gemini-2.5-flash": true,
-      "gemini-robotics-er-1.5-preview": true,
-      "gemini-2.5-flash-lite": true,
-      "gemini-flash-lite-latest": true,
-      "gemini-3-flash-preview": true,
-      "gemini-2.5-flash-preview-09-2025": false
-    },
-    "extension": {
-      "version": "3.4",
-      "extension_id": "ifdaaimeploojglipojkbgmlhfgoajncj",
-      "filename": "vector-v3.4.crx",
-      "uploaded_at": "2025-12-29T07:06:42.715402"
-    },
-    "new_registrations": true,
-    "refer_only_mode": true,
-    "media_access": {
-      "images": true,
-      "files": true,
-      "audio": true
-    },
-    "auto_pilot": true,
-    "message_limit": false
-  },
-  "refer_codes": {
-    "bws": {
-      "created_at": "2026-06-25T10:36:16.893Z",
-      "created_by": "rids3d@gmail.com"
-    }
-  }
 }
