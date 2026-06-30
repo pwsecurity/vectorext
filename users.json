@@ -22,7 +22,7 @@
         },
         "farhan2": {
             "password": "farhan2",
-            "status": "pending",
+            "status": "approved",
             "role": "user",
             "refer_code": "farhan",
             "user_file": "users/farhan2.json",
