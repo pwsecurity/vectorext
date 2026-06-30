@@ -1,3 +1,10 @@
 {
-    "email": "farhan2"
+    "email": "farhan2",
+    "sessions": {
+        "0e6d3b15-7fc6-465f-a15c-b0deb6aa89ce": {
+            "last_login": "2026-06-30T17:56:18.282Z"
+        }
+    },
+    "active_session": "0e6d3b15-7fc6-465f-a15c-b0deb6aa89ce",
+    "last_login": "2026-06-30T17:56:18.282Z"
 }
