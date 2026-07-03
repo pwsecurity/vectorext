@@ -9,16 +9,6 @@
             "session_limit": 20,
             "expiry_date": "2026-08-24T10:17:28.730Z",
             "created_at": "2026-06-25T10:17:05.750Z"
-        },
-        "farhan2": {
-            "password": "farhan2",
-            "status": "approved",
-            "role": "user",
-            "refer_code": "farhan",
-            "user_file": "users/farhan2.json",
-            "session_limit": 2,
-            "expiry_date": "2026-07-30T17:56:09.276Z",
-            "created_at": "2026-06-30T17:53:50.830Z"
         }
     },
     "system_settings": {
